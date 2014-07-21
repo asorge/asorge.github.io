@@ -1,23 +1,11 @@
-
-
-
 /* COLOR CONSTANTS */
-
-$darkgrey = '#444444';
-$periwinkle ='#CCDDFF';
-$perimint = '#CCEEFF';
-$mint = '#CCFFFF';
-$teal = '#66AABB';
-$white = '#FFF';
-$black =  '#000';
-
 body {
-	background: $darkgrey;
-	background: #444444;
-	color: $white;
+  background: "#444444";
+  color: "#FFF"; }
 
-}
+html {
+  font-size: 100.01%; }
 
-
-
-
+ul #nav {
+  background-image: -webkit-linear-gradient(90, "#555555", "#444444");
+  background-image: -moz-linear-gradient(90, "#555555", "#444444"); }
