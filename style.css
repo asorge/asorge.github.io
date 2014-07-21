@@ -1,0 +1,23 @@
+
+
+
+/* COLOR CONSTANTS */
+
+$darkgrey = '#444444';
+$periwinkle ='#CCDDFF';
+$perimint = '#CCEEFF';
+$mint = '#CCFFFF';
+$teal = '#66AABB';
+$white = '#FFF';
+$black =  '#000';
+
+body {
+	background: $darkgrey;
+	background: #444444;
+	color: $white;
+
+}
+
+
+
+
