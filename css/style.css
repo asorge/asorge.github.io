@@ -1,0 +1,11 @@
+/* COLOR CONSTANTS */
+body {
+  background: "#444444";
+  color: "#FFF"; }
+
+html {
+  font-size: 100.01%; }
+
+ul #nav {
+  background-image: -webkit-linear-gradient(90, "#555555", "#444444");
+  background-image: -moz-linear-gradient(90, "#555555", "#444444"); }
