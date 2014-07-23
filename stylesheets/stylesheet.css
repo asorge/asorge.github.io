@@ -46,8 +46,8 @@ a {
   color: #666;
   text-decoration: none;
   cursor: pointer;
-  -webkit-transition: color 1.5s;
-  -moz-transition: color 1.5s;
+  -webkit-transition: color 1s;
+  -moz-transition: color 1s;
 }
 
 
