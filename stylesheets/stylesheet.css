@@ -328,6 +328,13 @@ ul#links {
   box-sizing: inherit;
 }
 
+.wordpress {
+  position: absolute;
+  width: 95%;
+  height: 95%;
+
+}
+
 
 
 /*******************************************************************************
