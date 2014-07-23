@@ -1,0 +1,53 @@
+
+
+
+/* COLOR CONSTANTS */
+
+$darkgrey: '#444444';
+$medgrey: '#555555';
+$periwinkle: '#CCDDFF';
+$perimint: '#CCEEFF';
+$mint: '#CCFFFF';
+$teal: '#66AABB';
+$white: '#FFF';
+$black:  '#000';
+
+body {
+
+	background: $darkgrey;
+	color: $white;
+
+}
+
+@mixin border-radius($radius) {
+
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+}
+
+@mixin gradient-3($deg, $color1, $color2, $color3) {
+
+	background-image:  -webkit-linear-gradient($deg, $color1, $color2, $color3);
+	background-image: -moz-linear-gradient($deg, $color1, $color2, $color3);
+	
+
+}
+
+@mixin gradient-2($deg, $color1, $color2) {
+
+	background-image:  -webkit-linear-gradient($deg, $color1, $color2);
+	background-image: -moz-linear-gradient($deg, $color1, $color2);
+	
+
+}
+
+
+ul {
+	#nav {
+		@include gradient-2(90, $medgrey, $darkgrey);
+	}
+}
+
+
