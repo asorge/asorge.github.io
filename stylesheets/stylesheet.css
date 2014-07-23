@@ -43,7 +43,7 @@ table {
 /******************* CSS SHIT **************************************************/
 
 a {
-  color: #666;
+  
   text-decoration: none;
   cursor: pointer;
   -webkit-transition: color 1s;
@@ -169,6 +169,11 @@ div#main p {
   padding-left: 5%;
   padding-right: 5%;
   word-wrap: break-word;
+}
+
+div#main a {
+
+  color: #CCBBFF;
 }
 
 div#nav {
@@ -300,6 +305,11 @@ li.nav {
   font-size: 26px;
   padding-left: 1.25%;
   padding-right: 1.25%;
+  color: #666;
+}
+
+li.nav a {
+  color: #666;
 }
 
 .n1:hover {
