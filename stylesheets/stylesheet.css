@@ -221,6 +221,7 @@ div#nav {
   top: 1%;
   height: 5%;
   border: 0px;
+  position: fixed;
 
 }
 
@@ -247,7 +248,11 @@ div#sidebar {
 
 iframe {
   top: 10%;
+  height: 95%;
   bottom: 5%;
+  width: 95%;
+
+
 }
 
 .gradient {
@@ -391,11 +396,5 @@ ul#links {
   box-sizing: inherit;
 }
 
-.wordpress {
-  position: absolute;
-  width: 95%;
-  height: 95%;
-
-}
 
 
