@@ -42,6 +42,21 @@ table {
   
 /******************* CSS SHIT **************************************************/
 
+/* COLORS
+
+green: #56AB89
+pink: #E65C83
+yellow: #E7BA33
+dark blue: #3E1D79
+light blue: #9EC8C8
+cream: #FBE6D8
+med blue: #4D3776
+burgundy 1: #420E24
+burgundy 2: #632639
+
+*/
+
+
 a {
   
   text-decoration: none;
@@ -50,48 +65,49 @@ a {
   -moz-transition: color 1s;
 }
 
+a.links {
+  padding: 0.5%;
+}
+
 
 body {
 
-  color: #ddd;
+  color: #FBE6D8;
   background: #222;
-  font-size: 24px;
+  font-size: 1.5vw;
   font-family: 'Gentium Basic';
   line-height: 1.5;
-
 
 }
 
 .content {
 
   position: absolute;
-  top: 18%;
-  height: 72%;
+  top: 0%;
   padding: 1%;
   -webkit-box-sizing: border-box; 
   -moz-box-sizing: border-box;    
   box-sizing: border-box;
   border-radius: 1%;
   border: 1px solid #000;
-  background: #333;
+  background: #222;
 
 }
 
 div {
   position: fixed;
   padding: 0;
-  border: 1px solid #000;
 
 }
 
 div#allysorge {
-  color: #FFF;
+  color: #FBE6D8;
   position: fixed;
   border: 0px;
-  top: 70px;
-  font-size: 60px;
-  text-shadow: 3px 3px 3px #000;
-  left: 2.5%;
+  top: 1%;
+  font-size: 3vw;
+  text-shadow: 3px 3px 3px #4D3776;
+  left: 1.5%;
   width: 15%;
   height: 8%;
   font-family: 'Great Vibes'; 
@@ -99,59 +115,79 @@ div#allysorge {
 }
 
 div#allysorge a {
-  color: #fff;
+  color: #FBE6D8;
 
 }
 
 div#background {
-  top: 13%;
-  height: 87%;
+  top: 0px;
+  height: 100%;
   width: 100.01%;
   background: #222;
+  background-image: url("polygon.jpg");
+  background-position: top;
+  background-attachment: fixed;
+  background-size: 100%;
   border: 0px;
-  border-top: 2px dotted #fff;
+
 }
 
 div#colorbox {
   position: relative;
-  background: #333;
+  background: #222;
   border: 0px;
   width: 70%;
-  height: 25%;
+  height: 15%;
   float: right;
   top: 0px;
   bottom:0px;
  
 }
 
+div#deco {
+  background:  -webkit-linear-gradient(0deg, #222, #420E24);
+  background: -moz-linear-gradient(0deg, #222, #420E24);
+  background: -o-linear-gradient(0deg, #222, #420E24);
+  background: linear-gradient(0deg, #222, #420E24);
+
+  background-size: 100%;
+  background-position: fixed;
+  background-origin: top;
+
+  height: 100%;
+  left:59.66%%;
+  width:20%;
+
+}
+
 div#footer {
 
   position: fixed;
   width: 100.01%;
-  height: 4%;
-  bottom: -1px;
+
+  bottom: 0px;
   right: -1px;
   left: -1px;
   padding-left: 5%;
   border: 0px;
-  font-size: 18px;
+  font-size: 1vw;
   color: #aaa;
 }
 
 div#instaicon {
   position: fixed;
   box-sizing: inherit;
-  left: 70%%;
+  left: 76%%;
   width: 5%;
   height: 8%;
-  top: 36%;
+  top: 20%;
   border: 0px;
 }
 
 
 div#links {
   position: relative;
-  top: 45%;
+  top: 15%;
   box-sizing: inherit;
   height: 50%;
   border: 0px;
@@ -160,8 +196,9 @@ div#links {
 div#main {
 
   float: left;
-  left: 8%;
+  left: 5%;
   width: 54.66%;  
+  height: 100%;
 }
 
 div#main p {
@@ -179,7 +216,7 @@ div#main a {
 div#nav {
   
   width: 100.01%;
-  top: 8.5%;
+  top: 1%;
   height: 5%;
   border: 0px;
 
@@ -187,21 +224,27 @@ div#nav {
 
 div#photo {
   position: relative;
-  width: 70%;
-  height: 38%;
+  width: 80%;
+  height: 25%;
+  top: 5%;
   float: right;
-  border: 2px solid #CC6699;
   border-radius: 7px;
   box-sizing: inherit;
-  background: #333;
+  background: #222;
+  clear: right;
 }
 
 div#sidebar {
 
   float: right;
-  right: 8%;
-  width: 27.33%;
+  right: 5%;
+  width: 20.33%;
+  height: 100%;
 
+}
+
+iframe {
+  top: 10%;
 }
 
 .gradient {
@@ -211,10 +254,6 @@ div#sidebar {
   background: linear-gradient(0deg, #222, #333);
 
   
-}
-
-html {
-  font-size: 100.01%
 }
 
 .icon {
@@ -237,61 +276,58 @@ li {
 li.links {
   position: relative;
   box-sizing: inherit;
-  top:0px;
-  height: 20.25%;
+  margin: 2%;
+  height: 15%;
   width: inherit;
   display: block;
-  border-left: 4px solid #000;
-  border-right: 4px solid #000;
   border-radius: 0px;
   background: #222;
   -webkit-transition: background 1.5s, color 1.5s;
   -moz-transition: background 1.5s, color 1.5s;
-  font-size:30px;
-  text-shadow: 1px 2px 1px #333;
+  clear: right;
+  
 
   
 }
 
 .l1  {
-  color: #CC6699;
-  border-top: 4px solid #000;
-  border-bottom: 4px solid #000;
+  color: #E65C83;
+  text-shadow: 1px 2px 1px #5A524D;
 }
 
 .l1:hover {
-  background: #CC6699;
-  color: #fff;
+  background: #E65C83;
+  color: #FBE6D8;
 }
 
 .l2 {
-  color: #3399AA;
-  border-bottom: 4px solid #000;
+  color: #8F475D;
+text-shadow: 0.5px 0.5px 0.5px #E65C83;
 }
 
 .l2:hover {
-  background: #3399AA;
-  color: #fff;
+  background: #8F475D;
+  color: #FBE6D8;
 
 }
  
  .l3 {
-  color: #33DD99;
-  border-bottom: 4px solid #000;
+  color: #632639;
+  text-shadow: 0.5px 0.5px 0.5px #E65C83;
  }
 
 .l3:hover {
-  background: #33DD99;
-  color: #fff;
+  background: #632639;
+  color: #FBE6D8;
 }
 
 .l4 {
-  color: #FF8877;
-  border-bottom: 4px solid #000;
+  color: #420E24;
+  text-shadow: 0.5px 0.5px 0.5px #E65C83;
 }
 .l4:hover {
-  background: #FF8877;
-  color: #fff;
+  background: #420E24;
+  color: #FBE6D8;
 }
 
 li.nav {
@@ -302,39 +338,46 @@ li.nav {
   top: 2%;
   bottom: 2%;
   left: 18%;
-  font-size: 26px;
+
   padding-left: 1.25%;
   padding-right: 1.25%;
   color: #666;
 }
 
 li.nav a {
-  color: #666;
+  color: #fff;
+}
+
+li.borders {
+  border-top: 2px solid #111;
+  border-left: 2px solid #111;
+  border-right: 2px solid #111;
+  border-bottom: 2px solid #111;
+  border-radius: 5px;
+
 }
 
 .n1:hover {
-  color: #CC6699;
+  color: #E65C83;
+  text-shadow: 1px 2px 1px #5A524D;
 }
 .n2:hover {
-  color: #3399AA;
+  color: #8F475D;
+  text-shadow: 0.5px 0.5px 0.5px #E65C83;
 }
 .n3:hover {
-  color: #33DD99;
+  color: #632639;
+  text-shadow: 0.5px 0.5px 0.5px #E65C83;
 }
 .n4:hover {
-  color: #FF8877;
+  color: #420E24;
+  text-shadow: 0.5px 0.5px 0.5px #E65C83;
 }
 
 .portrait {
   position: absolute;
   top: 15%;
   width: 100%;
-}
-
-.shadow {
-  -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
-  -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
-  box-shadow:inset 0px 1px 0px 0px #ffffff;
 }
 
 ul#links {
@@ -353,57 +396,3 @@ ul#links {
 }
 
 
-
-/*******************************************************************************
-Small Device Styles
-*******************************************************************************/
-
-@media screen and (max-width: 480px) {
-  body {
-    font-size:14px;
-  }
-
-  #downloads {
-    display: none;
-  }
-
-  .inner {
-    min-width: 320px;
-    max-width: 480px;
-  }
-
-  #project_title {
-  font-size: 32px;
-  }
-
-  h1 {
-    font-size: 28px;
-  }
-
-  h2 {
-    font-size: 24px;
-  }
-
-  h3 {
-    font-size: 21px;
-  }
-
-  h4 {
-    font-size: 18px;
-  }
-
-  h5 {
-    font-size: 14px;
-  }
-
-  h6 {
-    font-size: 12px;
-  }
-
-  code, pre {
-    min-width: 320px;
-    max-width: 480px;
-    font-size: 11px;
-  }
-
-}
