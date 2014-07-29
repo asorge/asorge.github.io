@@ -53,6 +53,7 @@ cream: #FBE6D8
 med blue: #4D3776
 burgundy 1: #420E24
 burgundy 2: #632639
+teal: #099183
 
 */
 
@@ -63,6 +64,7 @@ a {
   cursor: pointer;
   -webkit-transition: color 1s;
   -moz-transition: color 1s;
+  color: #099183;
 }
 
 a.links {
@@ -210,7 +212,7 @@ div#main p {
 
 div#main a {
 
-  color: #CCBBFF;
+  color: #099183;
 }
 
 div#nav {
@@ -245,6 +247,7 @@ div#sidebar {
 
 iframe {
   top: 10%;
+  bottom: 5%;
 }
 
 .gradient {
