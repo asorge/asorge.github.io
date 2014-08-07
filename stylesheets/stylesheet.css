@@ -235,6 +235,14 @@ div#photo {
   box-sizing: inherit;
   background: #222;
   clear: right;
+  opacity: 0;
+  -webkit-transition: opacity 1.5s;
+  -moz-transition: opacity 1.5s;
+  transition: opacity 1.5s;
+}
+
+div#photo:hover {
+  opacity: 0.3;
 }
 
 div#sidebar {
@@ -290,8 +298,9 @@ li.links {
   display: block;
   border-radius: 0px;
   background: #222;
-  -webkit-transition: background 1.5s, color 1.5s;
-  -moz-transition: background 1.5s, color 1.5s;
+  -webkit-transition: background 1s, color 1.5s;
+  -moz-transition: background 1s, color 1.5s;
+  transition: background 1s, color 1.5s;
   clear: right;
   
 
@@ -382,11 +391,6 @@ li.borders {
   text-shadow: 0.5px 0.5px 0.5px #E65C83;
 }
 
-.portrait {
-  position: absolute;
-  top: 15%;
-  width: 100%;
-}
 
 ul#links {
   position: relative;
