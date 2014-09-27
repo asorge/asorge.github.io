@@ -1,0 +1,404 @@
+
+@import url(pygment_trac.css);
+
+/*******************************************************************************
+MeyerWeb Reset
+*******************************************************************************/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+  
+/******************* CSS SHIT **************************************************/
+
+/* COLORS
+
+green: #56AB89
+pink: #E65C83
+yellow: #E7BA33
+dark blue: #3E1D79
+light blue: #9EC8C8
+cream: #FBE6D8
+med blue: #4D3776
+burgundy 1: #420E24
+burgundy 2: #632639
+teal: #099183
+
+*/
+
+
+a {
+  
+  text-decoration: none;
+  cursor: pointer;
+  -webkit-transition: color 1s;
+  -moz-transition: color 1s;
+  color: #099183;
+}
+
+a.links {
+  padding: 0.5%;
+}
+
+
+body {
+
+  color: #FBE6D8;
+  background: #222;
+  font-size: 1.5vw;
+  font-family: 'Gentium Basic';
+  line-height: 1.5;
+
+}
+
+.content {
+
+  position: absolute;
+  top: 0%;
+  padding: 1%;
+  -webkit-box-sizing: border-box; 
+  -moz-box-sizing: border-box;    
+  box-sizing: border-box;
+  border-radius: 1%;
+  border: 1px solid #000;
+  background: #222;
+
+}
+
+div {
+  position: fixed;
+  padding: 0;
+
+}
+
+div#allysorge {
+  color: #FBE6D8;
+  position: fixed;
+  border: 0px;
+  top: 1%;
+  font-size: 3vw;
+  text-shadow: 3px 3px 3px #4D3776;
+  left: 1.5%;
+  width: 15%;
+  height: 8%;
+  font-family: 'Great Vibes'; 
+
+}
+
+div#allysorge a {
+  color: #FBE6D8;
+
+}
+
+div#background {
+  top: 0px;
+  height: 100%;
+  width: 100.01%;
+  background: #222;
+  background-image: url("polygon.jpg");
+  background-position: top;
+  background-attachment: fixed;
+  background-size: 100%;
+  border: 0px;
+
+}
+
+div#colorbox {
+  position: relative;
+  background: #222;
+  border: 0px;
+  width: 70%;
+  height: 15%;
+  float: right;
+  top: 0px;
+  bottom:0px;
+ 
+}
+
+div#deco {
+  background:  -webkit-linear-gradient(0deg, #222, #420E24);
+  background: -moz-linear-gradient(0deg, #222, #420E24);
+  background: -o-linear-gradient(0deg, #222, #420E24);
+  background: linear-gradient(0deg, #222, #420E24);
+
+  background-size: 100%;
+  background-position: fixed;
+  background-origin: top;
+
+  height: 100%;
+  left:59.66%%;
+  width:20%;
+
+}
+
+div#footer {
+
+  position: fixed;
+  width: 100.01%;
+
+  bottom: 0px;
+  right: -1px;
+  left: -1px;
+  padding-left: 5%;
+  border: 0px;
+  font-size: 1vw;
+  color: #aaa;
+}
+
+div#instaicon {
+  position: fixed;
+  box-sizing: inherit;
+  left: 76%%;
+  width: 5%;
+  height: 8%;
+  top: 20%;
+  border: 0px;
+}
+
+
+div#links {
+  position: relative;
+  top: 15%;
+  box-sizing: inherit;
+  height: 50%;
+  border: 0px;
+}
+
+div#main {
+
+  float: left;
+  left: 5%;
+  width: 54.66%;  
+  height: 100%;
+}
+
+div#main p {
+  padding-top: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  word-wrap: break-word;
+}
+
+div#main a {
+
+  color: #099183;
+}
+
+div#nav {
+  
+  width: 100.01%;
+  top: 1%;
+  height: 5%;
+  border: 0px;
+  position: fixed;
+
+}
+
+div#photo {
+  position: relative;
+  width: 80%;
+  height: 25%;
+  top: 5%;
+  float: right;
+  border-radius: 7px;
+  box-sizing: inherit;
+  background: #222;
+  clear: right;
+  opacity: 0;
+  -webkit-transition: opacity 1.5s;
+  -moz-transition: opacity 1.5s;
+  transition: opacity 1.5s;
+}
+
+div#photo:hover {
+  opacity: 0.3;
+}
+
+div#sidebar {
+
+  float: right;
+  right: 5%;
+  width: 20.33%;
+  height: 100%;
+
+}
+
+iframe {
+  margin-top: 6%;
+  height: 95%;
+  bottom: 5%;
+  width: 95%;
+
+
+}
+
+.gradient {
+  background:  -webkit-linear-gradient(0deg, #222, #333);
+  background: -moz-linear-gradient(0deg, #222, #333);
+  background: -o-linear-gradient(0deg, #222, #333);
+  background: linear-gradient(0deg, #222, #333);
+
+  
+}
+
+.icon {
+  position: absolute;
+  height: 98%;
+  right: 5%;
+  bottom: 1%;
+}
+
+
+li {
+  display: inline;
+  border: 0px;
+  margin: 0;
+  padding: 5px 10px 5px 10px;
+  border-radius: 7px;
+
+}
+
+li.links {
+  position: relative;
+  box-sizing: inherit;
+  margin: 2%;
+  height: 15%;
+  width: inherit;
+  display: block;
+  border-radius: 0px;
+  background: #222;
+  -webkit-transition: background 1s, color 1.5s;
+  -moz-transition: background 1s, color 1.5s;
+  transition: background 1s, color 1.5s;
+  clear: right;
+  
+
+  
+}
+
+.l1  {
+  color: #E65C83;
+  text-shadow: 1px 2px 1px #5A524D;
+}
+
+.l1:hover {
+  background: #E65C83;
+  color: #FBE6D8;
+}
+
+.l2 {
+  color: #8F475D;
+text-shadow: 0.5px 0.5px 0.5px #E65C83;
+}
+
+.l2:hover {
+  background: #8F475D;
+  color: #FBE6D8;
+
+}
+ 
+ .l3 {
+  color: #632639;
+  text-shadow: 0.5px 0.5px 0.5px #E65C83;
+ }
+
+.l3:hover {
+  background: #632639;
+  color: #FBE6D8;
+}
+
+.l4 {
+  color: #420E24;
+  text-shadow: 0.5px 0.5px 0.5px #E65C83;
+}
+.l4:hover {
+  background: #420E24;
+  color: #FBE6D8;
+}
+
+li.nav {
+
+  position: relative;
+  box-sizing: inherit;
+  height: 5%;
+  top: 2%;
+  bottom: 2%;
+  left: 18%;
+
+  padding-left: 1.25%;
+  padding-right: 1.25%;
+  color: #666;
+}
+
+li.nav a {
+  color: #fff;
+}
+
+li.borders {
+  border-top: 2px solid #111;
+  border-left: 2px solid #111;
+  border-right: 2px solid #111;
+  border-bottom: 2px solid #111;
+  border-radius: 5px;
+
+}
+
+.n1:hover {
+  color: #E65C83;
+  text-shadow: 1px 2px 1px #5A524D;
+}
+.n2:hover {
+  color: #8F475D;
+  text-shadow: 0.5px 0.5px 0.5px #E65C83;
+}
+.n3:hover {
+  color: #632639;
+  text-shadow: 0.5px 0.5px 0.5px #E65C83;
+}
+.n4:hover {
+  color: #420E24;
+  text-shadow: 0.5px 0.5px 0.5px #E65C83;
+}
+
+
+ul#links {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  border: 0px;
+  box-sizing: inherit;
+}
+
+
+

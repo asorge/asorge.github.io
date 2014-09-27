@@ -1,0 +1,47 @@
+/*
+Error: Inconsistent indentation: 1 space was used for indentation, but the rest of the document was indented using 2 spaces.
+        on line 331 of stylesheet.css
+
+326:   background: #8F475D;
+327:   color: #FBE6D8;
+328: 
+329: }
+330:  
+331:  .l3 {
+332:   color: #632639;
+333:   text-shadow: 0.5px 0.5px 0.5px #E65C83;
+334:  }
+335: 
+336: .l3:hover {
+
+Backtrace:
+stylesheet.css:331
+/Users/allysorge/.rvm/gems/ruby-2.1.2@global/gems/sass-3.4.5/lib/sass/engine.rb:473:in `block in tabulate'
+/Users/allysorge/.rvm/gems/ruby-2.1.2@global/gems/sass-3.4.5/lib/sass/engine.rb:431:in `each'
+/Users/allysorge/.rvm/gems/ruby-2.1.2@global/gems/sass-3.4.5/lib/sass/engine.rb:431:in `each_with_index'
+/Users/allysorge/.rvm/gems/ruby-2.1.2@global/gems/sass-3.4.5/lib/sass/engine.rb:431:in `tabulate'
+/Users/allysorge/.rvm/gems/ruby-2.1.2@global/gems/sass-3.4.5/lib/sass/engine.rb:396:in `_to_tree'
+/Users/allysorge/.rvm/gems/ruby-2.1.2@global/gems/sass-3.4.5/lib/sass/engine.rb:368:in `_render_with_sourcemap'
+/Users/allysorge/.rvm/gems/ruby-2.1.2@global/gems/sass-3.4.5/lib/sass/engine.rb:285:in `render_with_sourcemap'
+/Users/allysorge/.rvm/gems/ruby-2.1.2@global/gems/sass-3.4.5/lib/sass/plugin/compiler.rb:489:in `update_stylesheet'
+/Users/allysorge/.rvm/gems/ruby-2.1.2@global/gems/sass-3.4.5/lib/sass/plugin/compiler.rb:215:in `block in update_stylesheets'
+/Users/allysorge/.rvm/gems/ruby-2.1.2@global/gems/sass-3.4.5/lib/sass/plugin/compiler.rb:209:in `each'
+/Users/allysorge/.rvm/gems/ruby-2.1.2@global/gems/sass-3.4.5/lib/sass/plugin/compiler.rb:209:in `update_stylesheets'
+/Users/allysorge/.rvm/gems/ruby-2.1.2@global/gems/sass-3.4.5/lib/sass/plugin/compiler.rb:293:in `watch'
+/Users/allysorge/.rvm/gems/ruby-2.1.2@global/gems/sass-3.4.5/lib/sass/plugin.rb:108:in `method_missing'
+/Users/allysorge/.rvm/gems/ruby-2.1.2@global/gems/sass-3.4.5/lib/sass/exec/sass_scss.rb:370:in `watch_or_update'
+/Users/allysorge/.rvm/gems/ruby-2.1.2@global/gems/sass-3.4.5/lib/sass/exec/sass_scss.rb:50:in `process_result'
+/Users/allysorge/.rvm/gems/ruby-2.1.2@global/gems/sass-3.4.5/lib/sass/exec/base.rb:52:in `parse'
+/Users/allysorge/.rvm/gems/ruby-2.1.2@global/gems/sass-3.4.5/lib/sass/exec/base.rb:19:in `parse!'
+/Users/allysorge/.rvm/gems/ruby-2.1.2@global/gems/sass-3.4.5/bin/sass:13:in `<top (required)>'
+/Users/allysorge/.rvm/gems/ruby-2.1.2/bin/sass:23:in `load'
+/Users/allysorge/.rvm/gems/ruby-2.1.2/bin/sass:23:in `<main>'
+/Users/allysorge/.rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `eval'
+/Users/allysorge/.rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Inconsistent indentation: 1 space was used for indentation, but the rest of the document was indented using 2 spaces.\A         on line 331 of stylesheet.css\A \A 326:   background: #8F475D;\A 327:   color: #FBE6D8;\A 328: \A 329: }\A 330:  \A 331:  .l3 {\A 332:   color: #632639;\A 333:   text-shadow: 0.5px 0.5px 0.5px #E65C83;\A 334:  }\A 335: \A 336: .l3:hover {"; }
+
+/*# sourceMappingURL=stylesheeeet.css.map */

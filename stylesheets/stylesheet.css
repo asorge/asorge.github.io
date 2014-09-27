@@ -1,10 +1,7 @@
-
 @import url(pygment_trac.css);
-
 /*******************************************************************************
 MeyerWeb Reset
 *******************************************************************************/
-
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -22,383 +19,288 @@ time, mark, audio, video {
   padding: 0;
   border: 0;
   font: inherit;
-  vertical-align: baseline;
-}
+  vertical-align: baseline; }
 
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-  display: block;
-}
+  display: block; }
 
 ol, ul {
-  list-style: none;
-}
+  list-style: none; }
 
 table {
   border-collapse: collapse;
-  border-spacing: 0;
-}
-  
+  border-spacing: 0; }
+
 /******************* CSS SHIT **************************************************/
-
-/* COLORS
-
-green: #56AB89
-pink: #E65C83
-yellow: #E7BA33
-dark blue: #3E1D79
-light blue: #9EC8C8
-cream: #FBE6D8
-med blue: #4D3776
-burgundy 1: #420E24
-burgundy 2: #632639
-teal: #099183
-
-*/
-
-
-a {
-  
-  text-decoration: none;
-  cursor: pointer;
-  -webkit-transition: color 1s;
-  -moz-transition: color 1s;
-  color: #099183;
-}
-
-a.links {
-  padding: 0.5%;
-}
-
-
+/* COLORS */
+/*      MIXINS     */
 body {
-
-  color: #FBE6D8;
-  background: #222;
-  font-size: 1.5vw;
-  font-family: 'Gentium Basic';
-  line-height: 1.5;
-
-}
-
-.content {
-
-  position: absolute;
-  top: 0%;
-  padding: 1%;
-  -webkit-box-sizing: border-box; 
-  -moz-box-sizing: border-box;    
-  box-sizing: border-box;
-  border-radius: 1%;
-  border: 1px solid #000;
-  background: #222;
-
-}
-
-div {
-  position: fixed;
-  padding: 0;
-
-}
-
-div#allysorge {
-  color: #FBE6D8;
-  position: fixed;
-  border: 0px;
-  top: 1%;
-  font-size: 3vw;
-  text-shadow: 3px 3px 3px #4D3776;
-  left: 1.5%;
-  width: 15%;
-  height: 8%;
-  font-family: 'Great Vibes'; 
-
-}
-
-div#allysorge a {
-  color: #FBE6D8;
-
-}
-
-div#background {
   top: 0px;
-  height: 100%;
-  width: 100.01%;
-  background: #222;
-  background-image: url("polygon.jpg");
-  background-position: top;
-  background-attachment: fixed;
-  background-size: 100%;
-  border: 0px;
-
-}
-
-div#colorbox {
-  position: relative;
-  background: #222;
-  border: 0px;
-  width: 70%;
-  height: 15%;
-  float: right;
-  top: 0px;
-  bottom:0px;
- 
-}
-
-div#deco {
-  background:  -webkit-linear-gradient(0deg, #222, #420E24);
-  background: -moz-linear-gradient(0deg, #222, #420E24);
-  background: -o-linear-gradient(0deg, #222, #420E24);
-  background: linear-gradient(0deg, #222, #420E24);
-
-  background-size: 100%;
-  background-position: fixed;
-  background-origin: top;
-
-  height: 100%;
-  left:59.66%%;
-  width:20%;
-
-}
-
-div#footer {
-
-  position: fixed;
-  width: 100.01%;
-
-  bottom: 0px;
-  right: -1px;
-  left: -1px;
-  padding-left: 5%;
-  border: 0px;
-  font-size: 1vw;
-  color: #aaa;
-}
-
-div#instaicon {
-  position: fixed;
-  box-sizing: inherit;
-  left: 76%%;
-  width: 5%;
-  height: 8%;
-  top: 20%;
-  border: 0px;
-}
-
-
-div#links {
-  position: relative;
-  top: 15%;
-  box-sizing: inherit;
-  height: 50%;
-  border: 0px;
-}
-
-div#main {
-
-  float: left;
-  left: 5%;
-  width: 54.66%;  
-  height: 100%;
-}
-
-div#main p {
-  padding-top: 5%;
-  padding-left: 5%;
-  padding-right: 5%;
-  word-wrap: break-word;
-}
-
-div#main a {
-
-  color: #099183;
-}
-
-div#nav {
-  
-  width: 100.01%;
-  top: 1%;
-  height: 5%;
-  border: 0px;
-  position: fixed;
-
-}
-
-div#photo {
-  position: relative;
-  width: 80%;
-  height: 25%;
-  top: 5%;
-  float: right;
-  border-radius: 7px;
-  box-sizing: inherit;
-  background: #222;
-  clear: right;
-  opacity: 0;
-  -webkit-transition: opacity 1.5s;
-  -moz-transition: opacity 1.5s;
-  transition: opacity 1.5s;
-}
-
-div#photo:hover {
-  opacity: 0.3;
-}
-
-div#sidebar {
-
-  float: right;
-  right: 5%;
-  width: 20.33%;
-  height: 100%;
-
-}
-
-iframe {
-  margin-top: 6%;
-  height: 95%;
-  bottom: 5%;
-  width: 95%;
-
-
-}
-
-.gradient {
-  background:  -webkit-linear-gradient(0deg, #222, #333);
-  background: -moz-linear-gradient(0deg, #222, #333);
-  background: -o-linear-gradient(0deg, #222, #333);
-  background: linear-gradient(0deg, #222, #333);
-
-  
-}
-
-.icon {
-  position: absolute;
-  height: 98%;
-  right: 5%;
-  bottom: 1%;
-}
-
-
-li {
-  display: inline;
-  border: 0px;
-  margin: 0;
-  padding: 5px 10px 5px 10px;
-  border-radius: 7px;
-
-}
-
-li.links {
-  position: relative;
-  box-sizing: inherit;
-  margin: 2%;
-  height: 15%;
-  width: inherit;
-  display: block;
-  border-radius: 0px;
-  background: #222;
-  -webkit-transition: background 1s, color 1.5s;
-  -moz-transition: background 1s, color 1.5s;
-  transition: background 1s, color 1.5s;
-  clear: right;
-  
-
-  
-}
-
-.l1  {
-  color: #E65C83;
-  text-shadow: 1px 2px 1px #5A524D;
-}
-
-.l1:hover {
-  background: #E65C83;
-  color: #FBE6D8;
-}
-
-.l2 {
-  color: #8F475D;
-text-shadow: 0.5px 0.5px 0.5px #E65C83;
-}
-
-.l2:hover {
-  background: #8F475D;
-  color: #FBE6D8;
-
-}
- 
- .l3 {
-  color: #632639;
-  text-shadow: 0.5px 0.5px 0.5px #E65C83;
- }
-
-.l3:hover {
-  background: #632639;
-  color: #FBE6D8;
-}
-
-.l4 {
-  color: #420E24;
-  text-shadow: 0.5px 0.5px 0.5px #E65C83;
-}
-.l4:hover {
-  background: #420E24;
-  color: #FBE6D8;
-}
-
-li.nav {
-
-  position: relative;
-  box-sizing: inherit;
-  height: 5%;
-  top: 2%;
-  bottom: 2%;
-  left: 18%;
-
-  padding-left: 1.25%;
-  padding-right: 1.25%;
-  color: #666;
-}
-
-li.nav a {
-  color: #fff;
-}
-
-li.borders {
-  border-top: 2px solid #111;
-  border-left: 2px solid #111;
-  border-right: 2px solid #111;
-  border-bottom: 2px solid #111;
-  border-radius: 5px;
-
-}
-
-.n1:hover {
-  color: #E65C83;
-  text-shadow: 1px 2px 1px #5A524D;
-}
-.n2:hover {
-  color: #8F475D;
-  text-shadow: 0.5px 0.5px 0.5px #E65C83;
-}
-.n3:hover {
-  color: #632639;
-  text-shadow: 0.5px 0.5px 0.5px #E65C83;
-}
-.n4:hover {
-  color: #420E24;
-  text-shadow: 0.5px 0.5px 0.5px #E65C83;
-}
-
-
-ul#links {
-  position: relative;
-  height: 100%;
+  left: 0px;
   width: 100%;
-  border: 0px;
-  box-sizing: inherit;
-}
+  height: 100%;
+  font-family: "Libre Baskerville", serif; }
+  body a {
+    text-decoration: none;
+    font-family: "Libre Baskerville", serif; }
+    body a div#resume {
+      position: absolute;
+      color: white;
+      text-shadow: 1px 1px 1px #542e47;
+      font-size: 4vw;
+      text-align: center; }
+    body a div#calendar {
+      position: absolute;
+      color: #542e47;
+      text-shadow: 1px 1px #fbceeb;
+      font-size: 3vw; }
+    body a div#projects {
+      positon: absolute;
+      color: white;
+      text-shadow: 1px 1px #542e47;
+      font-size: 3vw;
+      text-align: center; }
+  body div.projPage {
+    position: absolute;
+    top: 10%;
+    left: 15%;
+    width: 70%;
+    height: 80%;
+    background: #ea8a7c;
+    border: 1px solid #fce7d4;
+    z-index: 10000; }
+    body div.projPage a {
+      color: white;
+      font-family: "Libre Baskerville", serif;
+      text-size: 2vw;
+      text-decoration: none; }
+    body div.projPage span.closeProj {
+      position: absolute;
+      top: 0.4em;
+      right: 0.4em;
+      width: 2em;
+      height: 2em;
+      text-indent: -9000px;
+      cursor: pointer;
+      z-index: 1000; }
+    body div.projPage span.closeProj:before {
+      content: 'x';
+      font-weight: 100;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      font-size: 3em;
+      line-height: 0.6;
+      text-align: center;
+      text-indent: 0px; }
+  body div.calPage {
+    position: absolute;
+    top: 10%;
+    left: 15%;
+    width: 70%;
+    height: 80%;
+    background: #fbceeb;
+    border: 1px solid #fce7d4;
+    z-index: 10000;
+    padding-top: 3%; }
+    body div.calPage span.closeCal {
+      position: absolute;
+      top: 0.4em;
+      right: 0.4em;
+      width: 2em;
+      height: 2em;
+      text-indent: -9000px;
+      cursor: pointer;
+      z-index: 1000; }
+    body div.calPage span.closeCal:before {
+      content: 'x';
+      font-weight: 100;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      font-size: 3em;
+      line-height: 0.6;
+      text-align: center;
+      text-indent: 0px; }
+  body div.resPage {
+    position: absolute;
+    top: 10%;
+    left: 15%;
+    width: 70%;
+    height: 80%;
+    background: #d0f9eb;
+    border: 1px solid #fce7d4;
+    z-index: 10000; }
+    body div.resPage span.closeRes {
+      position: absolute;
+      top: 0.4em;
+      right: 0.4em;
+      width: 2em;
+      height: 2em;
+      text-indent: -9000px;
+      cursor: pointer;
+      z-index: 1000; }
+    body div.resPage span.closeRes:before {
+      content: 'x';
+      font-weight: 100;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      font-size: 3em;
+      line-height: 0.6;
+      text-align: center;
+      text-indent: 0px; }
+  body div #title {
+    position: absolute;
+    top: 13%;
+    left: 18%;
+    height: 10%;
+    width: 30%;
+    font-family: "Libre Baskerville", serif;
+    font-style: italic;
+    color: #799c98;
+    text-shadow: 1px 1px 1px #fbceeb;
+    font-size: 4vw;
+    text-align: right;
+    border: none; }
+    body div #title a {
+      color: #799c98;
+      text-decoration: none; }
+  body div #projects {
+    position: absolute;
+    top: 15%;
+    right: 20%;
+    width: 30%;
+    height: 10%;
+    background: #ea8a7c;
+    border: none;
+    opacity: 0.5;
+    transition: opacity 0.5s; }
+  body div #projects:hover {
+    opacity: 1.0; }
+  body div #bio {
+    position: absolute;
+    right: 30%;
+    top: 26%;
+    height: 30%;
+    width: 20%;
+    background: #fce7d4;
+    border: none; }
+    body div #bio #bioText {
+      position: absolute;
+      left: 5%;
+      top: 5%;
+      width: 90%;
+      height: 90%;
+      color: #542e47;
+      font-family: sans-serif;
+      font-size: 1vw; }
+  body div #social {
+    position: absolute;
+    right: 20%;
+    top: 26%;
+    width: 9%;
+    height: 30%;
+    border: 1px solid #542e47;
+    background: rgba(208, 249, 235, 0.5);
+    font-family: "Libre Baskerville", serif;
+    font-size: 1vw;
+    border: none; }
+    body div #social #sociallinks {
+      position: absolute;
+      top: 7%;
+      left: 25%;
+      width: 50%;
+      height: 86%; }
+      body div #social #sociallinks img {
+        min-width: 75%;
+        max-height: 100%;
+        max-width: 100%; }
+  body div #resume {
+    position: absolute;
+    top: 57%;
+    right: 20%;
+    width: 36%;
+    height: 15%;
+    background: #fbceeb;
+    border: none;
+    opacity: 0.5;
+    transition: opacity 0.5s; }
+  body div #resume:hover {
+    opacity: 1.0; }
+  body div #block2 {
+    position: absolute;
+    top: 73%;
+    right: 20%;
+    width: 30%;
+    height: 17%;
+    background-image: url("pastelfloral.png");
+    border: none; }
+  body div #img {
+    position: absolute;
+    top: 21%;
+    left: 18%;
+    width: 25%;
+    height: 35%;
+    background: #fce7d4;
+    border: none; }
+  body div #img2 {
+    position: absolute;
+    top: 3%;
+    left: 3%;
+    width: 94%;
+    height: 94%;
+    border: none;
+    background: #542e47; }
+  body div #decospace {
+    position: absolute;
+    top: 21%;
+    right: 51%;
+    height: 35%;
+    width: 5%;
+    background-image: url("pastelfloral.png");
+    border: none; }
+  body div #calendar {
+    position: absolute;
+    top: 57%;
+    left: 18%;
+    width: 25%;
+    height: 15%;
+    background-image: url("minthounds.jpg");
+    border: 0.5px solid #542e47;
+    opacity: 0.5;
+    transition: opacity 0.75s; }
+  body div #calendar:hover {
+    opacity: 1.0; }
+  body div #bottom {
+    position: absolute;
+    top: 73%;
+    left: 18%;
+    width: 31%;
+    height: 17%;
+    background: #799c98;
+    border: none;
+    font-family: "Libre Baskerville", serif;
+    color: #fbceeb;
+    text-shadow: 0.5px 0.5px #000; }
+    body div #bottom div#bottomText {
+      position: absolute;
+      float: right;
+      top: 80%;
+      right: 5%;
+      height: 15%;
+      text-size: 2vh;
+      font-family: "Libre Baskerville", serif;
+      color: white;
+      text-shadow: 0.5px 0.5px #000;
+      border: none; }
 
-
-
+/*# sourceMappingURL=stylesheet.css.map */
