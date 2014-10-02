@@ -2,6 +2,7 @@ $(document).ready(function() {
 	$(".resPage").hide();
 	$(".projPage").hide();
 	$(".calPage").hide();
+	$(".staymindful").hide();
 	
 	
 });
@@ -43,6 +44,23 @@ $(".closeRes").click(function() {
 
 });
 
+
+$("#staymindful").click(function() {
+	$(".staymindful").fadeIn(250);
+});
+
+$(".closeMind").click(function() {
+	$(".staymindful").fadeOut(250);
+});
+
+$("#112").click(function () {
+
+	$(".112").fadeIn(250);
+});
+
+$(".close112").click(function() {
+	$(".112").fadeOut(250);
+});
 
 	
 	

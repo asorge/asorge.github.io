@@ -57,11 +57,33 @@ body {
       text-shadow: 1px 1px #fbceeb;
       font-size: 3vw; }
     body a div#projects {
-      positon: absolute;
+      position: absolute;
       color: white;
       text-shadow: 1px 1px #542e47;
       font-size: 3vw;
       text-align: center; }
+  body span {
+    position: absolute;
+    top: 0.4em;
+    right: 0.4em;
+    width: 2em;
+    height: 2em;
+    text-indent: -9000px;
+    cursor: pointer;
+    z-index: 1000; }
+  body span:before {
+    content: 'x';
+    font-weight: 100;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    font-size: 2em;
+    line-height: 0.6;
+    text-align: center;
+    text-indent: 0px;
+    text-shadow: 1px 2px white; }
   body div.projPage {
     position: absolute;
     top: 10%;
@@ -71,63 +93,30 @@ body {
     background: #ea8a7c;
     border: 1px solid #fce7d4;
     z-index: 10000; }
-    body div.projPage a {
-      color: white;
-      font-family: "Libre Baskerville", serif;
+    body div.projPage div#projects {
+      position: absolute;
+      top: 15%;
+      left: 15%;
+      width: 70%;
+      height: 70%;
       text-size: 2vw;
-      text-decoration: none; }
-    body div.projPage span.closeProj {
-      position: absolute;
-      top: 0.4em;
-      right: 0.4em;
-      width: 2em;
-      height: 2em;
-      text-indent: -9000px;
-      cursor: pointer;
-      z-index: 1000; }
-    body div.projPage span.closeProj:before {
-      content: 'x';
-      font-weight: 100;
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      font-size: 3em;
-      line-height: 0.6;
-      text-align: center;
-      text-indent: 0px; }
+      color: white;
+      text-shadow: 2px 2px #799c98;
+      font-family: "Libre Baskerville", serif; }
+      body div.projPage div#projects a {
+        text-decoration: none; }
+      body div.projPage div#projects .staymindful, body div.projPage div#projects .term112 {
+        display: none; }
   body div.calPage {
     position: absolute;
     top: 10%;
     left: 15%;
     width: 70%;
     height: 80%;
-    background: #fbceeb;
+    background: #d0f9eb;
     border: 1px solid #fce7d4;
     z-index: 10000;
     padding-top: 3%; }
-    body div.calPage span.closeCal {
-      position: absolute;
-      top: 0.4em;
-      right: 0.4em;
-      width: 2em;
-      height: 2em;
-      text-indent: -9000px;
-      cursor: pointer;
-      z-index: 1000; }
-    body div.calPage span.closeCal:before {
-      content: 'x';
-      font-weight: 100;
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      font-size: 3em;
-      line-height: 0.6;
-      text-align: center;
-      text-indent: 0px; }
   body div.resPage {
     position: absolute;
     top: 10%;
@@ -137,27 +126,11 @@ body {
     background: #d0f9eb;
     border: 1px solid #fce7d4;
     z-index: 10000; }
-    body div.resPage span.closeRes {
+    body div.resPage object.pdf {
       position: absolute;
-      top: 0.4em;
-      right: 0.4em;
-      width: 2em;
-      height: 2em;
-      text-indent: -9000px;
-      cursor: pointer;
-      z-index: 1000; }
-    body div.resPage span.closeRes:before {
-      content: 'x';
-      font-weight: 100;
-      position: absolute;
-      top: 0;
-      left: 0;
       width: 100%;
       height: 100%;
-      font-size: 3em;
-      line-height: 0.6;
-      text-align: center;
-      text-indent: 0px; }
+      background: #fbceeb; }
   body div #title {
     position: absolute;
     top: 13%;
