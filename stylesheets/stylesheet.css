@@ -323,17 +323,19 @@ body {
     border: none;
     font-family: "Libre Baskerville", serif;
     color: #fbceeb;
-    text-shadow: 0.5px 0.5px #000; }
-    body div #bottom div#bottomText {
-      position: absolute;
-      float: right;
-      top: 80%;
-      right: 5%;
-      height: 15%;
-      text-size: 2vh;
-      font-family: "Libre Baskerville", serif;
-      color: white;
-      text-shadow: 0.5px 0.5px #000;
-      border: none; }
+    text-shadow: 0.5px 0.5px #000;
+    font-size: 2vw;
+    text-align: center; }
+  body div #bottomText {
+    position: absolute;
+    float: right;
+    right: 5%;
+    height: 15%;
+    font-size: 1vw;
+    text-align: right;
+    font-family: "Libre Baskerville", serif;
+    color: white;
+    text-shadow: 0.5px 0.5px #000;
+    border: none; }
 
 /*# sourceMappingURL=stylesheet.css.map */

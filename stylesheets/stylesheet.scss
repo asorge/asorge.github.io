@@ -458,19 +458,22 @@ div {
         font-family: $serif;
         color: $pink;
         text-shadow: 0.5px 0.5px #000;
-        div#bottomText {
+        font-size: 2vw;
+        text-align: center;
+       
+    }
+     #bottomText {
             position: absolute;
             float: right;
-            top: 80%;
             right: 5%;
             height: 15%;
-            text-size: 2vh;
+            font-size: 1vw;
+            text-align: right;
             font-family: $serif;
             color: $white;
             text-shadow: 0.5px 0.5px #000;
             border: none;
         }
-    }
 
     
 }
