@@ -62,5 +62,11 @@ $(".close112").click(function() {
 	$(".112").fadeOut(250);
 });
 
+
+var calendar = $("#calendar");
+var width = $("#divBox").width();
+var height = $("#divBox").height();
+calendar.attr("width", width);
+calendar.attr("height", height);
 	
 	

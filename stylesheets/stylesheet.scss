@@ -49,7 +49,9 @@ $orange: #ea8a7c;
 $mint: #d0f9eb;
 $darkpurple: #542e47;
 $cream: #fce7d4;
+$black: #000;
 $white: white;
+$gray: #96A2BA;
 $serif: "Libre Baskerville", serif;
 
 $break-small: 320px;
@@ -81,12 +83,61 @@ $break-large: 1024px;
     background: linear-gradient($deg, $color1, $color2);
 }
 
+@mixin gradAnimateBG($color1, $color2, $color3, $speed) {
+    background: linear-gradient(270deg, $color1, $color2, $color3);
+background-size: 600% 600%;
+
+-webkit-animation: AnimationName $speed ease infinite;
+-z-animation: AnimationName $speed ease infinite;
+-o-animation: AnimationName $speed ease infinite;
+animation: AnimationName $speed ease infinite;
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-o-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes AnimationName { 
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+}
+
+@mixin foundation() {
+  font-family: "foundation-icons";
+  src: url("foundation-icons.eot");
+  src: url("foundation-icons.eot?#iefix") format("embedded-opentype"),
+       url("foundation-icons.woff") format("woff"),
+       url("foundation-icons.ttf") format("truetype"),
+       url("foundation-icons.svg#fontcustom") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
 body {
+    background: $gray;
+    position: fixed;
     top: 0px;
     left: 0px;
     width: 100%;
     height: 100%;
     font-family: $serif;
+    @include gradAnimateBG($teal, $mint, $pink, 30s);
+
+
+
     a {
         text-decoration: none;
         font-family: $serif;
@@ -115,6 +166,8 @@ body {
 
         }
     }
+
+  
 
 span {
     position: absolute;
@@ -207,10 +260,41 @@ div.projPage {
             background: $pink;
         }
 
+    div#whiteBG {
+        position: absolute;
+        background: $white;
+        top: 10%;
+        left: 13%;
+        width: 87%;
+        height: 90%;
+    }
+
 
 }
 
 div {
+
+    #img{
+    position: absolute;
+   
+    top: 15%;
+    left: 18%;
+    width: 27%;
+    height: 43%;
+    background-image: url("wow.jpg");
+    background-size: 100%;
+     background-origin: center;
+     opacity: 0.8;
+
+}
+   
+
+    .divBox {
+        position: fixed;
+        width: 50%;
+        border: solid 1px $teal;
+    }
+    
     #title {
         position: absolute;
         top: 13%;
@@ -224,6 +308,7 @@ div {
         font-size: 4vw;
         text-align: right;
         border: none;
+
         a {
             color: $teal;
             text-decoration: none;
@@ -239,6 +324,19 @@ div {
         border: none;
         opacity: 0.5;
         transition: opacity 0.5s;
+
+            #img {
+                position: absolute;
+                background: $cream;
+                border: none;
+                }
+             #img2 {
+        position: absolute;
+        width: 94%;
+        height: 94%;
+        border: none;
+        background: $darkpurple;
+         }
       
     }
 
@@ -277,15 +375,22 @@ div {
         font-size: 1vw;
         border: none;
         #sociallinks {
+            @include foundation;
             position: absolute;
             top: 7%;
             left: 25%;
             width: 50%;
             height: 86%;
-            img {
-                min-width: 75%;
-                max-height: 100%;
-                max-width: 100%;
+            
+            a {
+                font-size: 3vw;
+            color: $teal;
+            text-shadow: 1px 1px $darkpurple;
+            text-align: center;
+            display: inline;
+            height: 100%;
+            padding: none;
+         
             }
         }
     }
@@ -313,24 +418,6 @@ div {
         height: 17%;
         background-image: url("pastelfloral.png");
         border: none;
-    }
-    #img {
-        position: absolute;
-        top: 21%;
-        left: 18%;
-        width: 25%;
-        height: 35%;
-        background: $cream;
-        border: none;
-    }
-    #img2 {
-        position: absolute;
-        top: 3%;
-        left: 3%;
-        width: 94%;
-        height: 94%;
-        border: none;
-        background: $darkpurple;
     }
     #decospace {
         position: absolute;
@@ -387,6 +474,8 @@ div {
 
     
 }
+
+
 
 }
 

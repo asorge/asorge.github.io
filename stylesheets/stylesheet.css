@@ -37,11 +37,47 @@ table {
 /* COLORS */
 /*      MIXINS     */
 body {
+  background: #96A2BA;
+  position: fixed;
   top: 0px;
   left: 0px;
   width: 100%;
   height: 100%;
-  font-family: "Libre Baskerville", serif; }
+  font-family: "Libre Baskerville", serif;
+  background: linear-gradient(270deg, #799c98, #d0f9eb, #fbceeb);
+  background-size: 600% 600%;
+  -webkit-animation: AnimationName 30s ease infinite;
+  -z-animation: AnimationName 30s ease infinite;
+  -o-animation: AnimationName 30s ease infinite;
+  animation: AnimationName 30s ease infinite; }
+@-webkit-keyframes AnimationName {
+  0% {
+    background-position: 0% 50%; }
+  50% {
+    background-position: 100% 50%; }
+  100% {
+    background-position: 0% 50%; } }
+@-moz-keyframes AnimationName {
+  0% {
+    background-position: 0% 50%; }
+  50% {
+    background-position: 100% 50%; }
+  100% {
+    background-position: 0% 50%; } }
+@-o-keyframes AnimationName {
+  0% {
+    background-position: 0% 50%; }
+  50% {
+    background-position: 100% 50%; }
+  100% {
+    background-position: 0% 50%; } }
+@keyframes AnimationName {
+  0% {
+    background-position: 0% 50%; }
+  50% {
+    background-position: 100% 50%; }
+  100% {
+    background-position: 0% 50%; } }
   body a {
     text-decoration: none;
     font-family: "Libre Baskerville", serif; }
@@ -131,6 +167,27 @@ body {
       width: 100%;
       height: 100%;
       background: #fbceeb; }
+    body div.resPage div#whiteBG {
+      position: absolute;
+      background: white;
+      top: 10%;
+      left: 13%;
+      width: 87%;
+      height: 90%; }
+  body div #img {
+    position: absolute;
+    top: 15%;
+    left: 18%;
+    width: 27%;
+    height: 43%;
+    background-image: url("wow.jpg");
+    background-size: 100%;
+    background-origin: center;
+    opacity: 0.8; }
+  body div .divBox {
+    position: fixed;
+    width: 50%;
+    border: solid 1px #799c98; }
   body div #title {
     position: absolute;
     top: 13%;
@@ -157,6 +214,16 @@ body {
     border: none;
     opacity: 0.5;
     transition: opacity 0.5s; }
+    body div #projects #img {
+      position: absolute;
+      background: #fce7d4;
+      border: none; }
+    body div #projects #img2 {
+      position: absolute;
+      width: 94%;
+      height: 94%;
+      border: none;
+      background: #542e47; }
   body div #projects:hover {
     opacity: 1.0; }
   body div #bio {
@@ -188,15 +255,24 @@ body {
     font-size: 1vw;
     border: none; }
     body div #social #sociallinks {
+      font-family: "foundation-icons";
+      src: url("foundation-icons.eot");
+      src: url("foundation-icons.eot?#iefix") format("embedded-opentype"), url("foundation-icons.woff") format("woff"), url("foundation-icons.ttf") format("truetype"), url("foundation-icons.svg#fontcustom") format("svg");
+      font-weight: normal;
+      font-style: normal;
       position: absolute;
       top: 7%;
       left: 25%;
       width: 50%;
       height: 86%; }
-      body div #social #sociallinks img {
-        min-width: 75%;
-        max-height: 100%;
-        max-width: 100%; }
+      body div #social #sociallinks a {
+        font-size: 3vw;
+        color: #799c98;
+        text-shadow: 1px 1px #542e47;
+        text-align: center;
+        display: inline;
+        height: 100%;
+        padding: none; }
   body div #resume {
     position: absolute;
     top: 57%;
@@ -217,22 +293,6 @@ body {
     height: 17%;
     background-image: url("pastelfloral.png");
     border: none; }
-  body div #img {
-    position: absolute;
-    top: 21%;
-    left: 18%;
-    width: 25%;
-    height: 35%;
-    background: #fce7d4;
-    border: none; }
-  body div #img2 {
-    position: absolute;
-    top: 3%;
-    left: 3%;
-    width: 94%;
-    height: 94%;
-    border: none;
-    background: #542e47; }
   body div #decospace {
     position: absolute;
     top: 21%;
