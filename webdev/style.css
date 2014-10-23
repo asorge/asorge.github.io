@@ -98,14 +98,7 @@ html {
       position: absolute;
       top: 2%;
       right: 1%;
-      width: 15%;
-      font-size: 1vw;
-      border: 1px solid #444;
-      border-radius: 7%;
-      color: #444;
-      padding: 1%;
-      opacity: 0.6;
-      transition: opacity 1s; }
+      width: 15%; }
     html body div#search:hover {
       opacity: 0.8; }
     html body div#social {
