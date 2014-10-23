@@ -98,9 +98,9 @@ html {
       position: absolute;
       top: 2%;
       right: 1%;
-      width: 15%; }
-    html body div#search:hover {
-      opacity: 0.8; }
+      width: 15%;
+      z-index: 100000;
+      opacity: 1.0; }
     html body div#social {
       position: absolute;
       left: 1%;

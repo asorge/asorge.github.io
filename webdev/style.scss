@@ -216,11 +216,12 @@ html {
 				// color: $darkgrey;
 				// padding: 1%;
 				// transition: opacity 1s;
+				z-index: 100000;
+				opacity: 1.0;
+
+
 			}
 
-			div#search:hover {
-				opacity: 0.8;
-			}
 
 			div#social {
 				position: absolute;
