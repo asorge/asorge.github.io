@@ -1,0 +1,398 @@
+/* COLORS */
+
+$teal: #799c98;
+$pink: #fbceeb;
+$orange: rgb(237,155,51);
+$mint: #d0f9eb;
+$darkpurple: #542e47;
+$cream: #fce7d4;
+$black: #000;
+$white: white;
+$green: #679000;
+$mustard: rgb(255,207,1);
+$darkgrey: #444;
+$fuschia: rgb(235,68,152);
+$greenyellow: #bada55;
+$blue: #1BB0CE;
+ 
+
+/* FONTS */
+$nixie: 'Nixie One', cursive;
+$philosopher: 'Philosopher', sans-serif;
+$handlee: 'Handlee', cursive;
+
+/* MIXINS */
+
+@mixin respond-to($media) {
+    @if $media == handhelds {
+        @media only screen and (max-width: $break-small) {
+            @content;
+        }
+    }
+    @else if $media == medium-screens {
+        @media only screen and (min-width: $break-small + 1) and (max-width: $break-large -1) {
+            @content;
+        }
+    }
+    @else if $media == wide-screens {
+        @media only screen and (min-width: $break-large) {
+            @content;
+        }
+    }
+}
+
+
+@mixin gradient($color1, $color2, $deg) {
+    background: -webkit-linear-gradient($deg, $color1, $color2);
+    background: -moz-linear-gradient($deg, $color1, $color2);
+    background: -o-linear-gradient($deg, $color1, $color2);
+    background: linear-gradient($deg, $color1, $color2);
+}
+
+@mixin blur($level) {
+	  -webkit-filter: blur($level);
+  -moz-filter: blur($level);
+  -o-filter: blur($level);
+  -ms-filter: blur($level);
+  filter: blur($level);
+}
+
+@mixin fullscreen {
+	margin-left: -10px;
+	padding-left: 10px;
+	margin-right: -10px;
+	padding-right: 10px;
+}
+
+html {
+	font-family: Gill Sans;
+
+	body {
+
+			a {
+				text-decoration: none;
+			}
+			color: $darkgrey;
+			
+			margin-top: 10%;
+
+
+			h1 {
+				position: absolute;
+				font-size: 4vw;
+				color: $darkgrey;
+				opacity: 1.0;
+				font-style: italic;
+				font-weight: normal;
+				top: 0px;
+				left: 35%;
+				width: 30%;
+				opacity: 0.9;
+			}
+
+			h2 {
+				position: absolute;
+				top: 15%;
+				width: 70%;
+				left: 15%;
+				font-size: 2vw;
+				color: $darkgrey;
+				font-weight: normal;
+			}
+
+			div#form {
+				position: absolute;
+				top: 30%;
+				left: 35%;
+				width: 50%;
+
+				button {
+					background-color: $green;
+					padding-top: 2%;
+				}
+				
+
+			}
+
+			div#container {
+				position: absolute;
+				top: 40%;
+				width: 100%;
+			}
+
+			div#photos {
+				position: absolute;
+				top:30%;
+				left: 35%;
+				width: 30%;
+				height: 55%;
+				text-align: center;
+
+				img {
+
+				width: 40%;
+				border: solid 1px $orange;
+				box-shadow: 10px 10px 108px 0px rgba(92,87,92,0.55);
+				transition: border;
+
+
+				}
+
+				img:hover {
+					border: 3px solid $fuschia;
+				}
+			}
+
+			div#topBG {
+				position: absolute;
+				top: 13%;
+				height: 10%;
+				border-top: solid 1px $darkgrey;
+				opacity: 1;
+				z-index: 100;
+				width: 100%;
+				@include fullscreen;
+
+				nav {
+					position: absolute;
+					top: -1%;
+					left: 27%;
+					width: 50%;
+					list-style: inline;
+
+
+					ul li  {
+						display: inline;
+						list-style: none;
+						padding-right: 2%;
+					}
+
+					a {
+						text-decoration: none;
+						font-size: 2vw;
+						transition: color 1s;
+						transition: text-shadow 1s;
+						text-shadow: 1px 1px 1px $darkpurple;
+
+					}
+					a.aboutLink {
+						color: $mustard;
+					}
+
+					a.mapLink {
+						color: $green;
+					}
+
+					a.appLink {
+						color: $fuschia;
+					}
+
+					a.galLink {
+						color: $orange;
+					}
+
+					a.eventsLink {
+						color: $blue;
+					}
+					a:hover {
+						color: $darkgrey;
+						text-shadow: none;
+
+					}
+				}
+
+
+			}
+
+			div#search {
+				position: absolute;
+				top: 2%;
+				right: 1%;
+				width: 15%;
+				font-size: 1vw;
+				border: 1px solid $darkgrey;
+				border-radius: 7%;
+				color: $darkgrey;
+				padding: 1%;
+				opacity: 0.6;
+				transition: opacity 1s;
+			}
+
+			div#search:hover {
+				opacity: 0.8;
+			}
+
+			div#social {
+				position: absolute;
+				left: 1%;
+				top: 1%;
+				width: 15%;
+
+				ul li {
+					list-style: none;
+					display: inline;
+					text-decoration: none;
+					color: $darkpurple;
+					text-shadow: 1px 1px $pink;
+					font-size: 2vw;
+				}
+			}
+
+
+			div#topHalf {
+				position: relative;
+				width: 100%;
+				height: 70%;
+				background: url("images/phipps.jpg");
+				background-position: center;
+				background-size: 100%;
+				@include fullscreen;
+				opacity: 0.5;
+
+			
+			}
+
+			div.flower {
+					position:absolute;
+					left: 38.5%;
+					width: 25%;
+					top: 15%;
+					opacity: 1;
+					transition: opacity 1s;
+					z-index: 100;
+					
+				}
+
+			div#divider {
+			
+				position: relative;
+				height: 5%;
+				@include fullscreen;
+
+				div#hours {
+					position: absolute;
+					font-weight: normal;
+					padding-top: 2%;
+					left: 38.5%;
+					width: 25%;
+					height: 30%;
+					text-align: center;
+				}
+			}
+
+
+				div#googlemaps {
+					display: none;
+					position: absolute;
+					top: 20%;
+					height: 60%;
+					width: 99%;
+					border: 1px solid $darkgrey;
+				}
+
+				div#students {
+					display: none;
+					position: absolute;
+					top: 20%;
+					left: 25%;
+					width: 50%;
+					height: 60%;
+					border: solid 1px $darkgrey;
+
+				}
+		
+			
+			
+
+			footer {
+				position: absolute;
+				bottom: 0;
+				height: 8%;
+				width: 100%;
+				margin-left: -10px;
+				padding-left: 10px;
+				margin-right: -10px;
+				padding-right: 10px;
+				border: solid 1px $darkgrey;
+				background: $white;
+				opacity: 0.5;
+
+
+				div#logo {
+					position: absolute;
+					left: 30%;
+					bottom: 0;
+					height: 100%;
+					width: 40%;
+					top: 0;
+					background-image: url("images/logo1.png");
+					background-position: center;
+					background-repeat: no-repeat;
+				}
+
+			}
+		
+		}
+
+		span {
+    		position: absolute;
+            width: 2em;
+            height: 2em;
+            text-indent: -9000px;
+            cursor: pointer;
+            z-index: 1000;
+           	float: left;
+}		
+
+		span.spanMap:before {
+			content: url("images/leafclose.png");
+            font-weight: 100;
+            position: absolute;
+            top: -10;
+            right: -10;
+            width: 100%;
+            height: 100%;
+            font-size: 2em;
+            line-height: 1;
+            text-indent: 0px;
+            -webkit-transition: top 5s;
+            transition-duration: 5s;
+
+		}
+
+		span:hover {
+			
+			-webkit-transform: rotate(45deg);
+
+		}
+
+		footer {
+			text-align: center;
+		}
+	
+
+
+
+
+}
+
+
+
+
+/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
+
+@media only screen and (max-width: 480px) {
+	.col { 
+		margin: 1% 0 1% 0%;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+
+	.span_2_of_2 {
+		width: 100%; 
+	}
+	.span_1_of_2 {
+		width: 100%;
+	}
+}
