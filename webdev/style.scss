@@ -114,11 +114,8 @@ html {
 
 			}
 
-			div#container {
-				position: absolute;
-				top: 40%;
-				width: 100%;
-			}
+
+
 
 			div#photos {
 				position: absolute;
@@ -127,6 +124,21 @@ html {
 				width: 30%;
 				height: 55%;
 				text-align: center;
+
+							h2 {
+					position: absolute;
+					top: 0;
+					font-size: 1vw;
+					text-align: center;
+				}
+
+				hr.style-four {
+
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0,0,0,0.5);
+}
+
+
 
 				img {
 
@@ -156,7 +168,7 @@ html {
 				nav {
 					position: absolute;
 					top: -1%;
-					left: 27%;
+					left: 28%;
 					width: 50%;
 					list-style: inline;
 
@@ -274,10 +286,24 @@ html {
 					position: absolute;
 					font-weight: normal;
 					padding-top: 2%;
-					left: 38.5%;
+					left: 25%;
 					width: 25%;
-					height: 30%;
+					height: 40%;
 					text-align: center;
+				}
+
+				div#directions {
+					position: absolute;
+					left: 45%;
+					width: 30%;
+					text-align: center;
+					font-weight: normal;
+
+
+
+					a, i {
+						color: $fuschia;
+					}
 				}
 			}
 
@@ -291,22 +317,42 @@ html {
 					border: 1px solid $darkgrey;
 				}
 
+				div#container {
+					position: absolute;
+					top: 40%;
+					height: 20%;
+					width: 100%;
+				}
+
 				div#students {
-					display: none;
 					position: absolute;
 					top: 20%;
-					left: 25%;
-					width: 50%;
-					height: 60%;
-					border: solid 1px $darkgrey;
+					left: 27%;
+					width: 40%;
+					height: 12%;
+					padding: 2%;
+					border: dotted 1px $darkgrey;
+					text-align: center;
+
+					.maggie {
+						color: $darkpurple;
+						text-shadow: 1px 1px $blue;
+						
+					}
+
+					.wow {
+						float:right;
+					}
 
 				}
+
+
 		
 			
 			
 
 			footer {
-				position: absolute;
+				position: fixed;
 				bottom: 0;
 				height: 8%;
 				width: 100%;

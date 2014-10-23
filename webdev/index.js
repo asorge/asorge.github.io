@@ -18,13 +18,13 @@ $(function () {
             type: 'line'
         },
         title: {
-            text: 'Visitors by Month'
+            text: 'Visitors by University since January 2014'
         },
         subtitle: {
             text: 'Source: phippsconservatory.org'
         },
         xAxis: {
-            categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+            categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct']
         },
         yAxis: {
             title: {
@@ -40,8 +40,16 @@ $(function () {
             }
         },
         series: [{
-            name: 'Visitors',
-            data: [7.0, 6.9, 9.5, 14.5, 18.4, 21.5, 25.2, 26.5, 23.3, 18.3, 13.9, 9.6]
+            name: 'CMU',
+            data: [17.0, 6.9, 9.5, 14.5, 18.4, 21.5, 25.2, 26.5, 23.3, 18.3, 13.9, 9.6]
+        },
+        {
+            name: 'Pitt',
+            data: [7.0, 6.9, 9.5, 4.5, 8.4, 21.5, 5.2, 26.5, 23.3, 18.3, 1, 9]
+        },
+        {
+            name: 'Duquesne',
+            data: [7.0, 6, 5, 1.5, 18.4, 21.5, 2.2, 16.5, 2.3, 8.3, 13.9, 9.6]
         }]
     });
 });

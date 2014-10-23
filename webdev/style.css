@@ -35,10 +35,6 @@ html {
       html body div#form button {
         background-color: #679000;
         padding-top: 2%; }
-    html body div#container {
-      position: absolute;
-      top: 40%;
-      width: 100%; }
     html body div#photos {
       position: absolute;
       top: 30%;
@@ -46,6 +42,14 @@ html {
       width: 30%;
       height: 55%;
       text-align: center; }
+      html body div#photos h2 {
+        position: absolute;
+        top: 0;
+        font-size: 1vw;
+        text-align: center; }
+      html body div#photos hr.style-four {
+        border: 0;
+        box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5); }
       html body div#photos img {
         width: 40%;
         border: solid 1px #ed9b33;
@@ -68,7 +72,7 @@ html {
       html body div#topBG nav {
         position: absolute;
         top: -1%;
-        left: 27%;
+        left: 28%;
         width: 50%;
         list-style: inline; }
         html body div#topBG nav ul li {
@@ -144,10 +148,18 @@ html {
         position: absolute;
         font-weight: normal;
         padding-top: 2%;
-        left: 38.5%;
+        left: 25%;
         width: 25%;
-        height: 30%;
+        height: 40%;
         text-align: center; }
+      html body div#divider div#directions {
+        position: absolute;
+        left: 45%;
+        width: 30%;
+        text-align: center;
+        font-weight: normal; }
+        html body div#divider div#directions a, html body div#divider div#directions i {
+          color: #eb4498; }
     html body div#googlemaps {
       display: none;
       position: absolute;
@@ -155,16 +167,27 @@ html {
       height: 60%;
       width: 99%;
       border: 1px solid #444; }
+    html body div#container {
+      position: absolute;
+      top: 40%;
+      height: 20%;
+      width: 100%; }
     html body div#students {
-      display: none;
       position: absolute;
       top: 20%;
-      left: 25%;
-      width: 50%;
-      height: 60%;
-      border: solid 1px #444; }
+      left: 27%;
+      width: 40%;
+      height: 12%;
+      padding: 2%;
+      border: dotted 1px #444;
+      text-align: center; }
+      html body div#students .maggie {
+        color: #542e47;
+        text-shadow: 1px 1px #1BB0CE; }
+      html body div#students .wow {
+        float: right; }
     html body footer {
-      position: absolute;
+      position: fixed;
       bottom: 0;
       height: 8%;
       width: 100%;
