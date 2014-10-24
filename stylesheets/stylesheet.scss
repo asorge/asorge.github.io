@@ -143,7 +143,7 @@ body {
 
     a {
         text-decoration: none;
-        font-family: $jacques;
+        font-family: serif;
     }
 
   
@@ -256,12 +256,13 @@ div {
 
     #img{
     position: absolute;
-   
+    background-color: $darkgrey;
     top: 15%;
     left: 18%;
     width: 25%;
     height: 41%;
-    background-image: url("ally.jpg");
+    background-image: url("ally.jpeg");
+    background-repeat: no-repeat;
     background-size: 100%;
      background-origin: center;
      opacity: 0.8;
@@ -458,9 +459,9 @@ div {
         height: 17%;
         background: $teal;
         border: none;
-        font-family: $jacques;
+        font-family: $serif;
         color: #ddd;
-        text-shadow: 3px 1px 1px $darkgrey;
+        text-shadow: 3px 1px 3px $darkgrey;
         font-size: 5vw;
         text-align: center;
         box-sizing: border-box;

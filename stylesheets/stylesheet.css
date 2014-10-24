@@ -81,7 +81,7 @@ body {
     background-position: 0% 50%; } }
   body a {
     text-decoration: none;
-    font-family: "Jacques Francois Shadow", cursive; }
+    font-family: serif; }
   body span {
     position: absolute;
     top: 0.4em;
@@ -161,11 +161,13 @@ body {
       height: 90%; }
   body div #img {
     position: absolute;
+    background-color: #777;
     top: 15%;
     left: 18%;
     width: 25%;
     height: 41%;
-    background-image: url("ally.jpg");
+    background-image: url("ally.jpeg");
+    background-repeat: no-repeat;
     background-size: 100%;
     background-origin: center;
     opacity: 0.8;
@@ -327,9 +329,9 @@ body {
     height: 17%;
     background: #799c98;
     border: none;
-    font-family: "Jacques Francois Shadow", cursive;
+    font-family: "Libre Baskerville", serif;
     color: #ddd;
-    text-shadow: 3px 1px 1px #777;
+    text-shadow: 3px 1px 3px #777;
     font-size: 5vw;
     text-align: center;
     box-sizing: border-box;
