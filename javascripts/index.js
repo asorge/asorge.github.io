@@ -11,6 +11,8 @@ $(".transitionProj").click(function() {
 
 	$(".divBox").fadeOut(250);
 	$(".projPage").fadeIn(500);
+	var p = $("#gallery").portfolio();
+    p.init();
 
 });
 

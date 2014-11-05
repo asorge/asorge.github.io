@@ -1,0 +1,4283 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "18027",
+"files": {
+	"\/ally.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 111190,
+		"inputAbbreviatedPath": "\/ally.jpg",
+		"outputAbbreviatedPath": "\/ally.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/calendar.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/calendar.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/contact.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/contact.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/style.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/style.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/style.scss",
+		"outputAbbreviatedPath": "\/css\/style.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/etsy--(t).png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1626,
+		"inputAbbreviatedPath": "\/etsy--(t).png",
+		"outputAbbreviatedPath": "\/etsy--(t).png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/fb-(t).png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1150,
+		"inputAbbreviatedPath": "\/fb-(t).png",
+		"outputAbbreviatedPath": "\/fb-(t).png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/fb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22975,
+		"inputAbbreviatedPath": "\/fb.png",
+		"outputAbbreviatedPath": "\/fb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/foundation-icons\/foundation-icons.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/foundation-icons\/foundation-icons.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/foundation-icons\/preview.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/foundation-icons\/preview.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/g+--(t).png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2026,
+		"inputAbbreviatedPath": "\/g+--(t).png",
+		"outputAbbreviatedPath": "\/g+--(t).png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/google.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25591,
+		"inputAbbreviatedPath": "\/google.png",
+		"outputAbbreviatedPath": "\/google.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/bg_hr.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78,
+		"inputAbbreviatedPath": "\/images\/bg_hr.png",
+		"outputAbbreviatedPath": "\/images\/bg_hr.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/blacktocat.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 463,
+		"inputAbbreviatedPath": "\/images\/blacktocat.png",
+		"outputAbbreviatedPath": "\/images\/blacktocat.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/bullet.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 139,
+		"inputAbbreviatedPath": "\/images\/bullet.png",
+		"outputAbbreviatedPath": "\/images\/bullet.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/icon_download.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 216,
+		"inputAbbreviatedPath": "\/images\/icon_download.png",
+		"outputAbbreviatedPath": "\/images\/icon_download.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/sprite_download.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14832,
+		"inputAbbreviatedPath": "\/images\/sprite_download.png",
+		"outputAbbreviatedPath": "\/images\/sprite_download.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/insta.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25852,
+		"inputAbbreviatedPath": "\/insta.png",
+		"outputAbbreviatedPath": "\/insta.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/javascripts\/flowtype.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/javascripts\/flowtype.js",
+		"outputAbbreviatedPath": "\/javascripts\/min\/flowtype-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/javascripts\/index.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/javascripts\/index.js",
+		"outputAbbreviatedPath": "\/javascripts\/min\/index-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/javascripts\/jquery-2.1.1.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/javascripts\/jquery-2.1.1.js",
+		"outputAbbreviatedPath": "\/javascripts\/min\/jquery-2.1.1-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/javascripts\/main.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/javascripts\/main.js",
+		"outputAbbreviatedPath": "\/javascripts\/min\/main-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/javascripts\/respond.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/javascripts\/respond.js",
+		"outputAbbreviatedPath": "\/javascripts\/min\/respond-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/linked.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23851,
+		"inputAbbreviatedPath": "\/linked.png",
+		"outputAbbreviatedPath": "\/linked.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/mail-(t).png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1808,
+		"inputAbbreviatedPath": "\/mail-(t).png",
+		"outputAbbreviatedPath": "\/mail-(t).png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/master.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/master.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/pinterest-(t).png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1806,
+		"inputAbbreviatedPath": "\/pinterest-(t).png",
+		"outputAbbreviatedPath": "\/pinterest-(t).png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/projects.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/projects.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/README.md",
+		"outputAbbreviatedPath": "\/README.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/rss-(t).png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2183,
+		"inputAbbreviatedPath": "\/rss-(t).png",
+		"outputAbbreviatedPath": "\/rss-(t).png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/style.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/style.scss",
+		"outputAbbreviatedPath": "\/css\/style.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/style.scss.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/style.scss.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stylesheets\/ally.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.35502e+06,
+		"inputAbbreviatedPath": "\/stylesheets\/ally.jpeg",
+		"outputAbbreviatedPath": "\/stylesheets\/ally.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stylesheets\/allywow.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5.82439e+06,
+		"inputAbbreviatedPath": "\/stylesheets\/allywow.jpeg",
+		"outputAbbreviatedPath": "\/stylesheets\/allywow.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stylesheets\/font-size.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stylesheets\/font-size.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stylesheets\/ie.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stylesheets\/ie.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stylesheets\/mintdots.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3441,
+		"inputAbbreviatedPath": "\/stylesheets\/mintdots.png",
+		"outputAbbreviatedPath": "\/stylesheets\/mintdots.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stylesheets\/minthounds.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 290669,
+		"inputAbbreviatedPath": "\/stylesheets\/minthounds.jpg",
+		"outputAbbreviatedPath": "\/stylesheets\/minthounds.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stylesheets\/normalize.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stylesheets\/normalize.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stylesheets\/oldstyle.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stylesheets\/oldstyle.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stylesheets\/pastelfloral.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 183527,
+		"inputAbbreviatedPath": "\/stylesheets\/pastelfloral.png",
+		"outputAbbreviatedPath": "\/stylesheets\/pastelfloral.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stylesheets\/polygon.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 358822,
+		"inputAbbreviatedPath": "\/stylesheets\/polygon.jpg",
+		"outputAbbreviatedPath": "\/stylesheets\/polygon.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/stylesheets\/pygment_trac.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stylesheets\/pygment_trac.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stylesheets\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stylesheets\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stylesheets\/style.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stylesheets\/style.scss",
+		"outputAbbreviatedPath": "\/css\/style.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/stylesheets\/styles.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stylesheets\/styles.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stylesheets\/stylesheeeet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stylesheets\/stylesheeeet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stylesheets\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stylesheets\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stylesheets\/stylesheet.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stylesheets\/stylesheet.scss",
+		"outputAbbreviatedPath": "\/css\/stylesheet.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/stylesheets\/stylesheets.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stylesheets\/stylesheets.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stylesheets\/wow.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103138,
+		"inputAbbreviatedPath": "\/stylesheets\/wow.jpg",
+		"outputAbbreviatedPath": "\/stylesheets\/wow.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twit.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24949,
+		"inputAbbreviatedPath": "\/twit.png",
+		"outputAbbreviatedPath": "\/twit.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/twitter-(t).png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1762,
+		"inputAbbreviatedPath": "\/twitter-(t).png",
+		"outputAbbreviatedPath": "\/twitter-(t).png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/untitled.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/untitled.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/about.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/about.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/apply.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/apply.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/foundation-icons\/foundation-icons.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/foundation-icons\/foundation-icons.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/foundation-icons\/preview.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/foundation-icons\/preview.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/gallery.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/gallery.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/3d-column-interactive\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/3d-column-interactive\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/3d-column-null-values\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/3d-column-null-values\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/3d-column-stacking-grouping\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/3d-column-stacking-grouping\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/3d-pie-donut\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/3d-pie-donut\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/3d-pie\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/3d-pie\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/3d-scatter-draggable\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/3d-scatter-draggable\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/area-basic\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/area-basic\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/area-inverted\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/area-inverted\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/area-missing\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/area-missing\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/area-negative\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/area-negative\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/area-stacked-percent\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/area-stacked-percent\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/area-stacked\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/area-stacked\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/arearange-line\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/arearange-line\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/arearange\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/arearange\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/areaspline\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/areaspline\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/bar-basic\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/bar-basic\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/bar-negative-stack\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/bar-negative-stack\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/bar-stacked\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/bar-stacked\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/box-plot\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/box-plot\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/bubble-3d\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/bubble-3d\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/bubble\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/bubble\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/column-basic\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/column-basic\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/column-drilldown\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/column-drilldown\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/column-negative\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/column-negative\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/column-parsed\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/column-parsed\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/column-placement\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/column-placement\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/column-rotated-labels\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/column-rotated-labels\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/column-stacked-and-grouped\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/column-stacked-and-grouped\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/column-stacked-percent\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/column-stacked-percent\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/column-stacked\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/column-stacked\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/columnrange\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/columnrange\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/combo-dual-axes\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/combo-dual-axes\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/combo-meteogram\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/combo-meteogram\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/combo-multi-axes\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/combo-multi-axes\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/combo-regression\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/combo-regression\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/combo\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/combo\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/dynamic-click-to-add\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/dynamic-click-to-add\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/dynamic-master-detail\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/dynamic-master-detail\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/dynamic-update\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/dynamic-update\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/error-bar\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/error-bar\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/funnel\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/funnel\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/gauge-clock\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/gauge-clock\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/gauge-dual\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/gauge-dual\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/gauge-solid\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/gauge-solid\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/gauge-speedometer\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/gauge-speedometer\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/gauge-vu-meter\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/gauge-vu-meter\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/heatmap-canvas\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/heatmap-canvas\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/heatmap\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/heatmap\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/line-ajax\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/line-ajax\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/line-basic\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/line-basic\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/line-labels\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/line-labels\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/line-log-axis\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/line-log-axis\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/line-time-series\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/line-time-series\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/pie-basic\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/pie-basic\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/pie-donut\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/pie-donut\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/pie-drilldown\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/pie-drilldown\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/pie-gradient\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/pie-gradient\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/pie-legend\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/pie-legend\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/pie-monochrome\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/pie-monochrome\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/pie-semi-circle\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/pie-semi-circle\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/polar-spider\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/polar-spider\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/polar-wind-rose\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/polar-wind-rose\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/polar\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/polar\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/pyramid\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/pyramid\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/renderer\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/renderer\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/scatter\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/scatter\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/sparkline\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/sparkline\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/spline-inverted\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/spline-inverted\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/spline-irregular-time\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/spline-irregular-time\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/spline-plot-bands\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/spline-plot-bands\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/spline-symbols\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/spline-symbols\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/examples\/waterfall\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/examples\/waterfall\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/data.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/data.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/min\/data-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/drilldown.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/drilldown.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/min\/drilldown-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/funnel.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/funnel.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/min\/funnel-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/heatmap.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/heatmap.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/min\/heatmap-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/highcharts-3d.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/highcharts-3d.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/min\/highcharts-3d-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/highcharts-convert.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/highcharts-convert.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/min\/highcharts-convert-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/highcharts-more.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/highcharts-more.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/min\/highcharts-more-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/highcharts.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/highcharts.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/min\/highcharts-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/jquery.1.9.1.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/jquery.1.9.1.min.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/min\/jquery.1.9.1.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/map.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/map.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/min\/map-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/no-data-to-display.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/no-data-to-display.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/min\/no-data-to-display-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/solid-gauge.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/solid-gauge.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/src\/main\/resources\/phantomjs\/min\/solid-gauge-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/data.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/data.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/min\/data-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/drilldown.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/drilldown.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/min\/drilldown-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/funnel.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/funnel.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/min\/funnel-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/heatmap.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/heatmap.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/min\/heatmap-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/highcharts-3d.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/highcharts-3d.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/min\/highcharts-3d-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/highcharts-convert.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/highcharts-convert.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/min\/highcharts-convert-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/highcharts-more.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/highcharts-more.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/min\/highcharts-more-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/highcharts.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/highcharts.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/min\/highcharts-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/highstock.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/highstock.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/min\/highstock-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/jquery.1.9.1.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/jquery.1.9.1.min.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/min\/jquery.1.9.1.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/map.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/map.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/min\/map-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/no-data-to-display.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/no-data-to-display.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/min\/no-data-to-display-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/solid-gauge.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/solid-gauge.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-convert\/target\/classes\/phantomjs\/min\/solid-gauge-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/css\/demo.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/css\/demo.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/Highcharts-icon-160px.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20539,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/Highcharts-icon-160px.png",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/Highcharts-icon-160px.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/codemirror.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/codemirror.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/codemirror.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/codemirror.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/min\/codemirror-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/mode\/javascript\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/mode\/javascript\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/mode\/javascript\/javascript.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/mode\/javascript\/javascript.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/mode\/javascript\/min\/javascript-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/mode\/javascript\/typescript.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/mode\/javascript\/typescript.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/mode\/xml\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/mode\/xml\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/mode\/xml\/xml.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/mode\/xml\/xml.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/mode\/xml\/min\/xml-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/closetag.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/closetag.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/min\/closetag-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/dialog.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/dialog.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/dialog.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/dialog.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/min\/dialog-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/foldcode.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/foldcode.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/min\/foldcode-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/formatting.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/formatting.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/min\/formatting-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/javascript-hint.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/javascript-hint.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/min\/javascript-hint-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/loadmode.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/loadmode.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/min\/loadmode-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/match-highlighter.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/match-highlighter.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/min\/match-highlighter-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/multiplex.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/multiplex.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/min\/multiplex-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/overlay.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/overlay.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/min\/overlay-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/pig-hint.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/pig-hint.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/min\/pig-hint-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/runmode-standalone.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/runmode-standalone.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/min\/runmode-standalone-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/runmode.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/runmode.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/min\/runmode-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/search.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/search.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/min\/search-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/searchcursor.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/searchcursor.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/min\/searchcursor-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/simple-hint.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/simple-hint.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/simple-hint.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/simple-hint.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/min\/simple-hint-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/xml-hint.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/xml-hint.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/codemirror\/util\/min\/xml-hint-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/jquery-1.11.0.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/jquery-1.11.0.min.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/resources\/lib\/min\/jquery-1.11.0.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/WEB-INF\/jspf\/callback.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/WEB-INF\/jspf\/callback.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/WEB-INF\/jspf\/min\/callback-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/WEB-INF\/jspf\/config.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/WEB-INF\/jspf\/config.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/WEB-INF\/jspf\/min\/config-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/WEB-INF\/pages\/demo.jsp": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/WEB-INF\/pages\/demo.jsp",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/WEB-INF\/pages\/error.jsp": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/src\/main\/webapp\/WEB-INF\/pages\/error.jsp",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/css\/demo.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/css\/demo.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/Highcharts-icon-160px.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20539,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/Highcharts-icon-160px.png",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/Highcharts-icon-160px.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/codemirror.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/codemirror.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/codemirror.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/codemirror.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/min\/codemirror-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/mode\/javascript\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/mode\/javascript\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/mode\/javascript\/javascript.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/mode\/javascript\/javascript.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/mode\/javascript\/min\/javascript-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/mode\/javascript\/typescript.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/mode\/javascript\/typescript.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/mode\/xml\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/mode\/xml\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/mode\/xml\/xml.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/mode\/xml\/xml.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/mode\/xml\/min\/xml-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/closetag.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/closetag.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/min\/closetag-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/dialog.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/dialog.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/dialog.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/dialog.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/min\/dialog-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/foldcode.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/foldcode.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/min\/foldcode-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/formatting.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/formatting.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/min\/formatting-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/javascript-hint.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/javascript-hint.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/min\/javascript-hint-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/loadmode.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/loadmode.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/min\/loadmode-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/match-highlighter.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/match-highlighter.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/min\/match-highlighter-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/multiplex.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/multiplex.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/min\/multiplex-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/overlay.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/overlay.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/min\/overlay-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/pig-hint.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/pig-hint.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/min\/pig-hint-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/runmode-standalone.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/runmode-standalone.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/min\/runmode-standalone-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/runmode.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/runmode.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/min\/runmode-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/search.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/search.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/min\/search-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/searchcursor.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/searchcursor.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/min\/searchcursor-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/simple-hint.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/simple-hint.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/simple-hint.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/simple-hint.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/min\/simple-hint-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/xml-hint.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/xml-hint.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/codemirror\/util\/min\/xml-hint-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/jquery-1.11.0.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/jquery-1.11.0.min.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/resources\/lib\/min\/jquery-1.11.0.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/WEB-INF\/jspf\/callback.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/WEB-INF\/jspf\/callback.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/WEB-INF\/jspf\/min\/callback-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/WEB-INF\/jspf\/config.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/WEB-INF\/jspf\/config.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/WEB-INF\/jspf\/min\/config-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/WEB-INF\/pages\/demo.jsp": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/WEB-INF\/pages\/demo.jsp",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/WEB-INF\/pages\/error.jsp": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/highcharts-export\/highcharts-export-web\/target\/highcharts-export-web\/WEB-INF\/pages\/error.jsp",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/readme.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/readme.md",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/java\/readme.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/data.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/data.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/min\/data-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/drilldown.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/drilldown.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/min\/drilldown-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/funnel.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/funnel.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/min\/funnel-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/heatmap.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/heatmap.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/min\/heatmap-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/highcharts-3d.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/highcharts-3d.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/min\/highcharts-3d-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/highcharts-convert.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/highcharts-convert.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/min\/highcharts-convert-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/highcharts-more.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/highcharts-more.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/min\/highcharts-more-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/highcharts.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/highcharts.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/min\/highcharts-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/jquery.1.9.1.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/jquery.1.9.1.min.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/min\/jquery.1.9.1.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/map.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/map.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/min\/map-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/no-data-to-display.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/no-data-to-display.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/min\/no-data-to-display-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/readme.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/readme.md",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/readme.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/solid-gauge.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/solid-gauge.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/phantomjs\/min\/solid-gauge-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/exporting-server\/php\/php-batik\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/exporting-server\/php\/php-batik\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/gfx\/vml-radial-gradient.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24270,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/gfx\/vml-radial-gradient.png",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/gfx\/vml-radial-gradient.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/graphics\/meteogram-symbols-30px.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40391,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/graphics\/meteogram-symbols-30px.png",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/graphics\/meteogram-symbols-30px.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/graphics\/skies.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43395,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/graphics\/skies.jpg",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/graphics\/skies.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/graphics\/snow.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4679,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/graphics\/snow.png",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/graphics\/snow.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/graphics\/sun.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3934,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/graphics\/sun.png",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/graphics\/sun.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/index.htm": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/index.htm",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/adapters\/standalone-framework.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/adapters\/standalone-framework.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/adapters\/min\/standalone-framework-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/adapters\/standalone-framework.src.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/adapters\/standalone-framework.src.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/adapters\/min\/standalone-framework.src-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/highcharts-3d.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/highcharts-3d.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/min\/highcharts-3d-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/highcharts-3d.src.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/highcharts-3d.src.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/min\/highcharts-3d.src-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/highcharts-all.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/highcharts-all.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/min\/highcharts-all-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/highcharts-more.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/highcharts-more.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/min\/highcharts-more-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/highcharts-more.src.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/highcharts-more.src.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/min\/highcharts-more.src-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/highcharts.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/highcharts.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/min\/highcharts-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/highcharts.src.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/highcharts.src.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/min\/highcharts.src-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/modules\/canvas-tools.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/canvas-tools.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/min\/canvas-tools-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/modules\/canvas-tools.src.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/canvas-tools.src.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/min\/canvas-tools.src-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/modules\/data.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/data.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/min\/data-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/modules\/data.src.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/data.src.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/min\/data.src-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/modules\/drilldown.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/drilldown.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/min\/drilldown-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/modules\/drilldown.src.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/drilldown.src.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/min\/drilldown.src-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/modules\/exporting.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/exporting.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/min\/exporting-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/modules\/exporting.src.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/exporting.src.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/min\/exporting.src-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/modules\/funnel.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/funnel.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/min\/funnel-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/modules\/funnel.src.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/funnel.src.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/min\/funnel.src-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/modules\/heatmap.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/heatmap.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/min\/heatmap-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/modules\/heatmap.src.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/heatmap.src.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/min\/heatmap.src-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/modules\/no-data-to-display.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/no-data-to-display.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/min\/no-data-to-display-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/modules\/no-data-to-display.src.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/no-data-to-display.src.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/min\/no-data-to-display.src-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/modules\/solid-gauge.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/solid-gauge.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/min\/solid-gauge-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/modules\/solid-gauge.src.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/solid-gauge.src.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/modules\/min\/solid-gauge.src-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/themes\/dark-blue.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/themes\/dark-blue.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/themes\/min\/dark-blue-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/themes\/dark-green.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/themes\/dark-green.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/themes\/min\/dark-green-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/themes\/dark-unica.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/themes\/dark-unica.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/themes\/min\/dark-unica-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/themes\/gray.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/themes\/gray.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/themes\/min\/gray-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/themes\/grid-light.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/themes\/grid-light.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/themes\/min\/grid-light-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/themes\/grid.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/themes\/grid.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/themes\/min\/grid-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/themes\/sand-signika.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/themes\/sand-signika.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/themes\/min\/sand-signika-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/Highcharts-4.0.4\/js\/themes\/skies.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/themes\/skies.js",
+		"outputAbbreviatedPath": "\/webdev\/Highcharts-4.0.4\/js\/themes\/min\/skies-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/index.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/index.js",
+		"outputAbbreviatedPath": "\/webdev\/min\/index-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/style.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/style.scss",
+		"outputAbbreviatedPath": "\/css\/style.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/webdev\/WebDevProject\/AssignmentDetails\/content\/wugwide.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 151579,
+		"inputAbbreviatedPath": "\/webdev\/WebDevProject\/AssignmentDetails\/content\/wugwide.jpg",
+		"outputAbbreviatedPath": "\/webdev\/WebDevProject\/AssignmentDetails\/content\/wugwide.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/WebDevProject\/StarterCode\/css\/styles.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/WebDevProject\/StarterCode\/css\/styles.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/WebDevProject\/StarterCode\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/WebDevProject\/StarterCode\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/website-sorge\/about.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/about.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/website-sorge\/animations.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/animations.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/website-sorge\/apply.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/apply.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/website-sorge\/exporting.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/exporting.js",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/min\/exporting-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/website-sorge\/foundation-icons.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/foundation-icons.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/website-sorge\/gallery.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/gallery.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/website-sorge\/highcharts.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/highcharts.js",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/min\/highcharts-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/website-sorge\/images\/fall1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65804,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/images\/fall1.jpg",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/images\/fall1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/images\/fall2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62847,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/images\/fall2.jpg",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/images\/fall2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/images\/fallflowershow.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 141278,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/images\/fallflowershow.jpg",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/images\/fallflowershow.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/images\/gallery.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.03851e+06,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/images\/gallery.png",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/images\/gallery.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/images\/halloweenhappenings.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 199288,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/images\/halloweenhappenings.jpg",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/images\/halloweenhappenings.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/images\/header.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.6764e+06,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/images\/header.jpg",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/images\/header.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/images\/leafclose.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2699,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/images\/leafclose.png",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/images\/leafclose.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/images\/logo1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1551,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/images\/logo1.png",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/images\/logo1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/images\/logo2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35870,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/images\/logo2.jpg",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/images\/logo2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/images\/phipps.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 151246,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/images\/phipps.jpg",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/images\/phipps.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/images\/phipps1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 166720,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/images\/phipps1.jpg",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/images\/phipps1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/images\/phipps2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 151246,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/images\/phipps2.jpg",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/images\/phipps2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/images\/phipps3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 129228,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/images\/phipps3.jpg",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/images\/phipps3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/images\/phippsleaf.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 831,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/images\/phippsleaf.png",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/images\/phippsleaf.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/website-sorge\/index.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/index.js",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/min\/index-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/website-sorge\/jquery-2.1.1.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/jquery-2.1.1.min.js",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/min\/jquery-2.1.1.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/website-sorge\/lightbox\/css\/lightbox.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/css\/lightbox.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/website-sorge\/lightbox\/css\/screen.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/css\/screen.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/website-sorge\/lightbox\/img\/close.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 280,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/close.png",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/close.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/lightbox\/img\/demopage\/favicon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 986,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/favicon.png",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/favicon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/lightbox\/img\/demopage\/image-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 251137,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/image-1.jpg",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/image-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/lightbox\/img\/demopage\/image-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169405,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/image-2.jpg",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/image-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/lightbox\/img\/demopage\/image-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 282784,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/image-3.jpg",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/image-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/lightbox\/img\/demopage\/image-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 248057,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/image-4.jpg",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/image-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/lightbox\/img\/demopage\/image-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 222296,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/image-5.jpg",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/image-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/lightbox\/img\/demopage\/image-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 255978,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/image-6.jpg",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/image-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/lightbox\/img\/demopage\/thumb-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13542,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/thumb-1.jpg",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/thumb-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/lightbox\/img\/demopage\/thumb-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33168,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/thumb-2.jpg",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/thumb-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/lightbox\/img\/demopage\/thumb-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15387,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/thumb-3.jpg",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/thumb-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/lightbox\/img\/demopage\/thumb-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12719,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/thumb-4.jpg",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/thumb-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/lightbox\/img\/demopage\/thumb-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10562,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/thumb-5.jpg",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/thumb-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/lightbox\/img\/demopage\/thumb-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11575,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/thumb-6.jpg",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/demopage\/thumb-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/lightbox\/img\/next.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1350,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/next.png",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/next.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/lightbox\/img\/prev.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1360,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/prev.png",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/img\/prev.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/lightbox\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/website-sorge\/lightbox\/js\/jquery-1.11.0.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/js\/jquery-1.11.0.min.js",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/js\/min\/jquery-1.11.0.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/website-sorge\/lightbox\/js\/lightbox.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/js\/lightbox.js",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/js\/min\/lightbox-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/website-sorge\/lightbox\/js\/lightbox.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/js\/lightbox.min.js",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/lightbox\/js\/min\/lightbox.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/webdev\/website-sorge\/mobilewireframes\/apply.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 238434,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/mobilewireframes\/apply.png",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/mobilewireframes\/apply.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/mobilewireframes\/gallery.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.03851e+06,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/mobilewireframes\/gallery.png",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/mobilewireframes\/gallery.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/mobilewireframes\/home.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 346423,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/mobilewireframes\/home.png",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/mobilewireframes\/home.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/mobilewireframes\/map.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 425378,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/mobilewireframes\/map.png",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/mobilewireframes\/map.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/mobilewireframes\/search.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57920,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/mobilewireframes\/search.png",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/mobilewireframes\/search.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/webdev\/website-sorge\/wireframes\/aboutWire.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 139395,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/wireframes\/aboutWire.png",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/wireframes\/aboutWire.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/wireframes\/applyWire.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 137570,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/wireframes\/applyWire.png",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/wireframes\/applyWire.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/wireframes\/galleryWire.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 148294,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/wireframes\/galleryWire.png",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/wireframes\/galleryWire.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/webdev\/website-sorge\/wireframes\/homeWire.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 171951,
+		"inputAbbreviatedPath": "\/webdev\/website-sorge\/wireframes\/homeWire.png",
+		"outputAbbreviatedPath": "\/webdev\/website-sorge\/wireframes\/homeWire.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "Ally Sorge",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "asorge.github.io",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "harddrive_brown"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerPreviewPathAddition": "",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 2,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 1,
+	"javascriptSyntaxCheckerStyle": 1,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"ass": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"closure": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"continue": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeq": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"newcap": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nomen": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sloppy": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"stupid": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"todo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unparam": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
+	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 0,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 0,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownEnableFootnotes": 0,
+	"markdownEnableSmartyPants": 1,
+	"markdownExpandTabs": 1,
+	"reloadFileURLs": 0,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 10,
+	"sassOutputStyle": 0,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 0,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, node_modules",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 1,
+	"slimLogicless": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
+	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusCreateSourceMap": 0,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleType": 0,
+	"typescriptNoImplicitAny": 0,
+	"typescriptNoResolve": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}
