@@ -218,7 +218,8 @@ div.projPage {
 
             a {
                 text-decoration: none;
-                color: $navy;
+                color: $dustyrose;
+                text-shadow: 1px 1px 2px $navy;
             }
 
             & .staymindful, .term112 {
@@ -243,7 +244,7 @@ div.projPage {
         left: 15%;
         width: 70%;
         height: 80%;
-        background: $dustyrose;
+        @include gradAnimateBG($lightgrey, $dustyrose, $white, 30s);
         border: 1px solid $cream;
         z-index: 10000;
         padding-top: 3%;
@@ -404,13 +405,16 @@ div {
         font-size: 1vw;
         border: 2px solid $lightgrey;
         box-sizing: border-box;
+        padding: none;
+
         #sociallinks {
             @include foundation;
             position: absolute;
-            top: 7%;
+            top: -2px;
             left: 25%;
             width: 50%;
             height: 86%;
+            padding: none;
             
             a {
             font-size: 3vw;

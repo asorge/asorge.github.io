@@ -95,7 +95,8 @@ body {
       font-size: 1vw; }
       body div.projPage div#projects2 a {
         text-decoration: none;
-        color: #002147; }
+        color: #e0aac2;
+        text-shadow: 1px 1px 2px #002147; }
       body div.projPage div#projects2 .staymindful, body div.projPage div#projects2 .term112 {
         display: none; }
       body div.projPage div#projects2 ul {
@@ -106,10 +107,43 @@ body {
     left: 15%;
     width: 70%;
     height: 80%;
-    background: #e0aac2;
+    background: linear-gradient(270deg, #aaaaaa, #e0aac2, white);
+    background-size: 600% 600%;
+    -webkit-animation: AnimationName 30s ease infinite;
+    -z-animation: AnimationName 30s ease infinite;
+    -o-animation: AnimationName 30s ease infinite;
+    animation: AnimationName 30s ease infinite;
     border: 1px solid #fce7d4;
     z-index: 10000;
     padding-top: 3%; }
+@-webkit-keyframes AnimationName {
+  body div.calPage 0%  {
+    background-position: 0% 50%; }
+  body div.calPage 50%  {
+    background-position: 100% 50%; }
+  body div.calPage 100%  {
+    background-position: 0% 50%; } }
+@-moz-keyframes AnimationName {
+  body div.calPage 0%  {
+    background-position: 0% 50%; }
+  body div.calPage 50%  {
+    background-position: 100% 50%; }
+  body div.calPage 100%  {
+    background-position: 0% 50%; } }
+@-o-keyframes AnimationName {
+  body div.calPage 0%  {
+    background-position: 0% 50%; }
+  body div.calPage 50%  {
+    background-position: 100% 50%; }
+  body div.calPage 100%  {
+    background-position: 0% 50%; } }
+@keyframes AnimationName {
+  body div.calPage 0%  {
+    background-position: 0% 50%; }
+  body div.calPage 50%  {
+    background-position: 100% 50%; }
+  body div.calPage 100%  {
+    background-position: 0% 50%; } }
   body div.resPage {
     position: absolute;
     top: 10%;
@@ -231,7 +265,8 @@ body {
     font-family: "Libre Baskerville", serif;
     font-size: 1vw;
     border: 2px solid #aaaaaa;
-    box-sizing: border-box; }
+    box-sizing: border-box;
+    padding: none; }
     body div #social #sociallinks {
       font-family: "foundation-icons";
       src: url("foundation-icons.eot");
@@ -239,10 +274,11 @@ body {
       font-weight: normal;
       font-style: normal;
       position: absolute;
-      top: 7%;
+      top: -2px;
       left: 25%;
       width: 50%;
-      height: 86%; }
+      height: 86%;
+      padding: none; }
       body div #social #sociallinks a {
         font-size: 3vw;
         color: #28705a;
