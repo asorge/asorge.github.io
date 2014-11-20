@@ -348,8 +348,8 @@ p.contact{
 	font-size: 1em;
 	position: absolute;
 	text-align: center;
-	height: 20%;
-	top: 0%;
+	height: 40%;
+	top: -10%;
 	right: 0;
 	width: 100%;
 	padding-bottom: 0;
@@ -383,6 +383,10 @@ span.closeForm {
 a.feedback {
 	cursor: pointer;
 	color: #fff;
+	position: absolute;
+	top: 40%;
+	left: 20%;
+	width: 60%;
 }
 
 
@@ -411,6 +415,20 @@ a.feedback {
 p#popUp {
 	text-shadow: 2px 2px 4px #fff;
 	font-weight: bold;
+}
+
+p#go {
+	position: absolute;
+	margin-top: 5em;
+	color: #fff;
+	font-size: 1em;
+	width: 10%;
+	height: 40%;
+	top: 20%;
+	text-align: right;
+	right: 30%;
+	margin-bottom: 0;
+	cursor: pointer;
 }
 
 

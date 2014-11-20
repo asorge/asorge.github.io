@@ -96,5 +96,9 @@ $( document ).ready(function() {
 
     // switch image caption
 
+    $("#go").click(function() {
+        alert("Thanks for subscribing!");
+    });
+
 
 });
