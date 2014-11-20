@@ -1,0 +1,488 @@
+
+
+@font-face{
+	font-family: Lane;
+	src: url(fonts/LANENAR_.ttf);
+}
+
+body{
+	background: #eee;
+	margin-left:auto;
+	margin-right: auto;
+	font-family: Lane;
+}
+/*===============================================
+topbar
+===============================================*/
+
+#topbar{
+	position:fixed;
+	height: 5em;
+	width: 100%;
+	background-color: white;
+	display: inline-block;
+	z-index: 100;
+	margin-top: -.5em;
+}
+.header{
+	font-size: 3.75em;
+	float: left;
+	color: #8e8e8e;
+	margin-top: .1em;
+	margin-left: .5em
+}
+
+
+.nav{
+	position: absolute;
+	right: 17%;
+	display: inline-block;
+	margin-top: 1.5em;
+	margin-right: 2em;
+}
+.button{
+	float: right;
+	font-size: 1.5em;
+	margin-right: 1em;
+	color: #8e8e8e;
+	transition: font-size .5s ease, color .5s ease, font-weight .5s ease;	
+
+}
+
+.button:hover{
+	color: black;
+	font-weight: 900;
+	font-size: 1.75em;
+	cursor: pointer;
+}
+
+div#search {
+	position: absolute;
+	display: inline-block;
+	width: 15%;
+	height: 5%;
+	right: 2%;
+	float: right;
+	padding-left: 2%
+
+}
+
+
+
+/*===============================================
+homephoto
+===============================================*/
+
+div#background{
+	
+	background: url(img/shoe1.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	height: 100vh;
+	width: 100%;
+	top: 0;
+	left: 0;
+	z-index: 0;
+	display: block;
+	text-align: center;
+
+
+}
+#container1{
+	background-color: rgba(0,0,0,0.25);
+	width:100%;
+	height:100%;
+	display:block;
+	position: relative;
+	text-align: center;
+	vertical-align: middle;
+}
+
+img{
+	width: auto;
+	height: auto;
+	margin: auto;
+	max-width: 100%;
+	display: inline-block;
+	top: 2.5%;
+	position: relative;
+}
+
+/*===============================================
+general 
+===============================================*/
+
+
+div.row{
+	width: 100%;
+	height: 100%;
+}
+div.inner{
+	max-width: 1024px;
+	margin: 0 auto;
+	text-align: center;
+}
+.content{
+	height: 44em;
+	width: 100%;
+	position: relative;
+	display: inline-block;
+	font-size: 1em;
+	transition: width 2s ease, height 2s ease;	
+	margin-top:0em;
+	overflow: hidden;
+	cursor: auto;
+}
+
+
+
+
+h1{
+	float: left;
+	color: white;
+	font-size: 3em;
+	margin-top: 0em;
+	font-weight: 100;
+	text-shadow: 2px 2px 3px fff;
+	padding-bottom: 5%;
+}
+/*===============================================
+mission statement
+===============================================*/
+
+div.first{
+	background-color:#78C8C3;
+}
+
+p#quote{
+	font-size:1.5em;
+	text-align: right;
+	float:left;
+	margin-top: 0em;
+	margin-left: 10em;
+	margin-right: 5em;
+	position: relative;
+	color: #fff;
+	opacity: 0;
+	text-shadow: 1px 1px 2px #aaa;
+	transition: opacity 2s ease;	
+
+
+}
+
+p#quote{
+	opacity: 1;
+}
+
+p#popUp {
+	cursor: pointer;
+	font-size:1.5em;
+	text-align: center;
+	float:right;
+	margin-top: 0em;
+	margin-left: 10em;
+	margin-right: 5em;
+	position: relative;
+	font-weight: bold;
+	transition: text-shadow 0.5s;
+
+}
+
+p#popUp:hover {
+	text-shadow: 1px 1px 2px #000;
+}
+
+
+span{
+	color: black;
+	font-weight: bold;
+}
+
+h1.missionTitle {
+	color: #eee;
+	text-shadow: 1px 1px 2px #999;
+	float: right;
+	padding-bottom: 1%;
+	padding-right: 40%;
+	font-weight: bold;
+	font-size: 3em;
+	
+}
+
+img#missionPic {
+	position:absolute;
+	left: 0%;
+	width: 100%;
+	top: 40%;
+}
+
+/*===============================================
+product 
+===============================================*/
+
+div.second{
+	background-color: #10BEB3;
+	position:relative;
+}
+
+p#description {
+	position: absolute;
+	text-shadow: 1px 1px 2px #999;
+	font-size: 1vw;
+	text-align: left;
+	left: 20%;
+	width: 60%;
+	padding: 6%;
+}
+
+div#carousel { 
+
+  perspective: 1200px; 
+  padding-top: 20%; 
+  font-size:0; 
+  margin-bottom: 3rem; 
+  overflow: hidden; 
+  margin-left: -8%;
+}
+figure#spinner { 
+  transform-style: preserve-3d; 
+  height: 300px; 
+  transform-origin: 50% 50% -500px; 
+  transition: 1s; 
+} 
+figure#spinner img { 
+  width: 40%; max-width: 425px; 
+  position: absolute; left: 30%;
+  transform-origin: 50% 50% -500px;
+  outline:1px solid transparent; 
+}
+
+figure#spinner img:nth-child(1) { transform:rotateY(0deg); }
+figure#spinner img:nth-child(2) { transform: rotateY(-45deg); }
+figure#spinner img:nth-child(3) { transform: rotateY(-90deg); }
+figure#spinner img:nth-child(4) { transform: rotateY(-135deg); }
+figure#spinner img:nth-child(5){ transform: rotateY(-180deg); }
+figure#spinner img:nth-child(6){ transform: rotateY(-225deg); }
+figure#spinner img:nth-child(7){ transform: rotateY(-270deg); }
+figure#spinner img:nth-child(8){ transform: rotateY(-315deg); }
+
+div#carousel ~ span { 
+  color: #aaa; 
+  text-shadow: 1px 1px 2px #000;
+  margin: 5%; 
+  display: inline-block; 
+  text-decoration: none; 
+  font-size: 2rem; 
+  transition: 0.6s color; 
+ position:relative;
+  margin-top: -6rem; 
+  border-bottom: none; 
+  line-height: 0; 
+  z-index: 10000;
+}
+
+div#carousel ~ span:hover { color: #888; cursor: pointer; }
+
+span#forwardSpin {
+	position: absolute;
+	left: 20%;
+}
+
+span#backSpin {
+	position: absolute;
+	right: 20%;
+}
+
+
+/*===============================================
+store locatoins 
+===============================================*/
+
+div.third{
+	position: relative;
+	width: 100%;
+	background-color: #068F87;
+}
+
+iframe#mapFrame {
+	position: absolute;
+	left: 0;
+	width: 100%;
+	max-height: 100%;
+	top: 10%;
+}
+
+
+h1#locations {
+	color: #fff;
+	text-shadow: 1px 1px 2px #B0E4E1;
+}
+/*===============================================
+about us
+===============================================*/
+
+
+div.fourth{
+	background-color: #08655f; 
+	color: #fff;
+	position: relative;
+	padding: 0;
+	margin: 0;
+}
+
+p.aboutText {
+	
+	margin-top: 5em;
+	position: relative;
+	color: #fff;
+	font-size: 1em;
+	width: 100%;
+	height: 40%;
+	padding-top: 0;
+	text-align: right;
+
+}
+
+p.contact{
+	font-size: 1em;
+	position: absolute;
+	text-align: center;
+	height: 20%;
+	top: 0%;
+	right: 0;
+	width: 100%;
+	padding-bottom: 0;
+}
+
+div#feedback {
+	display: none;
+	position: absolute;
+	background-color:rgba(255,255,255,0.85);
+	top: 20%;
+	left: 25%;
+	width: 50%;
+	height:50%;
+	padding: 2%;
+	border: none;
+	z-index: 1000;
+	color: #000;
+	font-weight: bold;
+	
+
+}
+
+span.closeForm {
+	position: absolute;
+	top: 2%;
+	float:right;
+	right: 2%;
+	cursor: pointer;
+}
+
+a.feedback {
+	cursor: pointer;
+	color: #fff;
+}
+
+
+input#text {
+	height: 40%;
+}
+
+p.centerText {
+	position: absolute;
+	margin-top: 5em;
+	color: #fff;
+	font-size: 1em;
+	width: 100%;
+	height: 40%;
+	top: 20%;
+	text-align: center;
+}
+
+a.feedback {
+
+	font-size: 2em;
+	text-shadow: 2px 2px 3px #B0E4E1;
+
+}
+
+p#popUp {
+	text-shadow: 2px 2px 4px #fff;
+	font-weight: bold;
+}
+
+
+
+/*===============================================
+footer
+===============================================*/
+
+footer{
+	height: 100%;
+	width: 100%;
+	
+}
+
+footer p{
+	color: #8e8e8e;
+	text-align: center;
+	font-size: 1.25em;
+	float: left;
+	margin-left: -10em;
+}
+
+footer p#social{
+	color: #8e8e8e;
+	text-align: center;
+	font-size: 1.25em;
+	float: right;
+	margin-right: -10em;
+}
+footer a:hover{
+	color: black;
+	font-weight:900;
+	cursor: pointer;
+}
+
+/*===============================================
+pop up
+===============================================*/
+
+div#missionWindow {
+	display: none;
+	position: absolute;
+	width: 85%;
+	left: 5%;
+	height: 50%;
+	top: 20%;
+	background: #fff;
+	z-index: 1000;
+	padding: 2%;
+	font-size: 2em;
+	color: #08655f;
+	margin-top: 5%;
+	text-align: left;
+}
+
+span.closeWindow {
+	position: absolute;
+	right: 2%;
+	cursor: pointer;
+
+}
+
+p.fancy {
+	font-size: 2vw;
+	font-style: italic;
+	font-weight: bold;
+	color: #000;
+	text-shadow: 1px 1px 1px #10BEB3;
+	text-align: center;
+}
+
+
+
+
+
