@@ -131,7 +131,6 @@ div.inner{
 	font-size: 1em;
 	transition: width 2s ease, height 2s ease;	
 	margin-top:0em;
-	overflow: hidden;
 	cursor: auto;
 }
 
@@ -199,16 +198,6 @@ span{
 	font-weight: bold;
 }
 
-h1.missionTitle {
-	color: #eee;
-	text-shadow: 1px 1px 2px #999;
-	float: right;
-	padding-bottom: 1%;
-	padding-right: 40%;
-	font-weight: bold;
-	font-size: 3em;
-	
-}
 
 img#missionPic {
 	position:absolute;
@@ -247,12 +236,12 @@ div#carousel {
 }
 figure#spinner { 
   transform-style: preserve-3d; 
-  height: 300px; 
+  height: 500px; 
   transform-origin: 50% 50% -500px; 
   transition: 1s; 
 } 
 figure#spinner img { 
-  width: 40%; max-width: 425px; 
+  width: 50%; max-width: 425px; 
   position: absolute; left: 30%;
   transform-origin: 50% 50% -500px;
   outline:1px solid transparent; 
@@ -348,8 +337,8 @@ p.contact{
 	font-size: 1em;
 	position: absolute;
 	text-align: center;
-	height: 40%;
-	top: -10%;
+	height: 20%;
+	top: 0%;
 	right: 0;
 	width: 100%;
 	padding-bottom: 0;
@@ -383,10 +372,6 @@ span.closeForm {
 a.feedback {
 	cursor: pointer;
 	color: #fff;
-	position: absolute;
-	top: 40%;
-	left: 20%;
-	width: 60%;
 }
 
 
@@ -417,20 +402,6 @@ p#popUp {
 	font-weight: bold;
 }
 
-p#go {
-	position: absolute;
-	margin-top: 5em;
-	color: #fff;
-	font-size: 1em;
-	width: 10%;
-	height: 40%;
-	top: 20%;
-	text-align: right;
-	right: 30%;
-	margin-bottom: 0;
-	cursor: pointer;
-}
-
 
 
 /*===============================================
@@ -448,7 +419,6 @@ footer p{
 	text-align: center;
 	font-size: 1.25em;
 	float: left;
-	margin-left: -10em;
 }
 
 footer p#social{
@@ -456,7 +426,6 @@ footer p#social{
 	text-align: center;
 	font-size: 1.25em;
 	float: right;
-	margin-right: -10em;
 }
 footer a:hover{
 	color: black;
@@ -475,7 +444,7 @@ div#missionWindow {
 	left: 5%;
 	height: 50%;
 	top: 20%;
-	background: #fff;
+	background:rgba(255,255,255,0.85);
 	z-index: 1000;
 	padding: 2%;
 	font-size: 2em;
@@ -498,6 +467,12 @@ p.fancy {
 	color: #000;
 	text-shadow: 1px 1px 1px #10BEB3;
 	text-align: center;
+}
+
+@media only screen and (max-device-width: 768px) {
+	div#search{
+	}
+
 }
 
 
