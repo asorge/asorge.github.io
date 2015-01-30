@@ -108,7 +108,7 @@ div#nav {
 				font-family: "Charter", serif;
 				font-size: 3vw;
 				text-shadow: 1px 2px $darkgray;
-				transition: color 0.5s;
+				transition: color 1s;
 			}
 
 			a:hover{
@@ -177,6 +177,13 @@ div#centerContent {
 				font-size: 3vw;
 				line-height: 2vw;
 				padding-left: 2%;
+				transition: color  1s;
+				
+			}
+
+			a:hover {
+				color: $darkblue;
+				text-shadow: 2px 2px 2px $lightblue;
 			}
 
 		}
