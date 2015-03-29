@@ -62,9 +62,28 @@ table {
   -ms-transform: rotate(180deg);
   transform: rotate(180deg); }
 
+img#butterfly {
+  position: absolute;
+  width: 50%;
+  left: 25%;
+  opacity: 0.5; }
+
+img#butterfly2 {
+  position: absolute;
+  width: 52%;
+  left: 22%;
+  opacity: 0.3; }
+
+img#butterfly3 {
+  position: absolute;
+  width: 58%;
+  left: 21%;
+  opacity: 0.1; }
+
 body {
   position: relative;
-  background-color: #E5E5E5; }
+  background-color: #222;
+  font-family: 'Dancing Script', cursive; }
 
 div#nav {
   position: absolute;
@@ -84,22 +103,21 @@ div#nav {
       padding: 2%; }
       div#nav ul li a {
         text-decoration: none;
-        font-family: "Charter", serif;
         font-size: 3vw;
-        text-shadow: 1px 2px #979797;
+        text-shadow: 1px 2px #F8E71C;
         transition: color 1s; }
       div#nav ul li a:hover {
-        color: #979797;
+        color: #0A311E;
         text-shadow: 1px 2px 2px #F8E71C; }
 
 a#pLink {
-  color: #F8C8AB; }
+  color: #A0EDCD; }
 
 a#rLink {
-  color: #950886; }
+  color: #A0EDCD; }
 
 a#cLink {
-  color: #88ACF8; }
+  color: #A0EDCD; }
 
 div#centerContent {
   position: absolute;
@@ -107,9 +125,8 @@ div#centerContent {
   left: 0;
   width: 100%; }
   div#centerContent h1 {
-    font-family: "Futura", sans-serif;
-    font-size: 5vw;
-    background: linear-gradient(270deg, #0051a8, #88acf8, #f8e71c, #f8c8ab, #950886);
+    font-size: 7vw;
+    background: linear-gradient(270deg, #0A311E, #0A311E, #6BC5C6, #A0EDCD, #F8E71C);
     background-size: 1000% 1000%;
     color: transparent;
     -webkit-font-smoothing: antialiased;
@@ -134,30 +151,20 @@ div#centerContent {
       display: inline; }
       div#centerContent div#footerLinks ul a {
         display: inline-block;
-        color: #950886;
-        text-shadow: 1px 1px 2px #F8C8AB;
+        color: #FDCD6B;
+        text-shadow: 1px 1px 2px #6BC5C6;
         font-size: 3vw;
         line-height: 2vw;
         padding-left: 2%;
         transition: color  1s; }
       div#centerContent div#footerLinks ul a:hover {
-        color: #0051A8;
+        color: #FDCD6B;
         text-shadow: 2px 2px 2px #88ACF8; }
   div#centerContent p {
-    font-family: "Charter", serif;
     font-size: 2vw;
-    color: #0051A8;
+    color: #fff;
     text-align: center;
     padding-top: 10%; }
-
-div#breakImage1 {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 5%;
-  background-image: url("triangleborder.svg");
-  background-origin: top-left; }
 
 div#projPage {
   position: absolute;
@@ -165,8 +172,7 @@ div#projPage {
   left: 10%;
   width: 80%;
   height: 80%;
-  background: rgba(248, 200, 171, 0.7);
-  font-family: "Charter", serif;
+  background: rgba(253, 205, 107, 0.7);
   font-size: 1vw;
   color: #444; }
   div#projPage ul {

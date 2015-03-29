@@ -45,9 +45,14 @@ $darkblue: #0051A8;
 $lightblue: #88ACF8;
 $yellow: #F8E71C;
 $burgundy: #950886;
-$peach: #F8C8AB;
+$peach: #FDCD6B;
 $white: #fff;
 $black: #000;
+$emerald: #0A311E;
+$aqua: #0A311E;
+$teal: #6BC5C6;
+$green: #A0EDCD;
+
 
 
 /***** REST OF CSS ****/
@@ -78,9 +83,36 @@ $black: #000;
     transform: rotate(180deg);
 }
 
+
+
+img#butterfly {
+	position: absolute;
+	width: 50%;
+	left: 25%;
+	opacity: 0.5;
+}
+
+img#butterfly2 {
+	position: absolute;
+	width: 52%;
+	left: 22%;
+
+	opacity: 0.3;
+}
+
+img#butterfly3 {
+	position: absolute;
+	width: 58%;
+	left: 21%;
+	opacity: 0.1;
+}
+
+
+
 body {
 	position: relative;
-	background-color: $lightgray;
+	background-color: #222;
+	font-family: 'Dancing Script', cursive;
 
 }
 
@@ -105,14 +137,13 @@ div#nav {
 
 			a {
 				text-decoration: none;
-				font-family: "Charter", serif;
 				font-size: 3vw;
-				text-shadow: 1px 2px $darkgray;
+				text-shadow: 1px 2px $yellow;
 				transition: color 1s;
 			}
 
 			a:hover{
-				color: $darkgray;
+				color: $emerald;
 				text-shadow: 1px 2px 2px $yellow;
 			}
 		}
@@ -122,15 +153,15 @@ div#nav {
 }
 
 a#pLink {
-	color: $peach;
+	color: $green;
 }
 
 a#rLink {
-	color: $burgundy;
+	color: $green;
 }
 
 a#cLink {
-	color: $lightblue;
+	color: $green;
 }
 
 div#centerContent {
@@ -140,9 +171,8 @@ div#centerContent {
 	width: 100%;
 
 	h1 {
-		font-family: "Futura", sans-serif;
-		font-size: 5vw;
-			background: linear-gradient(270deg, #0051a8, #88acf8, #f8e71c, #f8c8ab, #950886);
+		font-size: 7vw;
+		background: linear-gradient(270deg, $emerald, $aqua, $teal, $green, $yellow);
 		background-size: 1000% 1000%;
 		color:transparent;
 		-webkit-font-smoothing:antialiased;
@@ -172,8 +202,8 @@ div#centerContent {
 			a {
 				
 				display: inline-block;
-				color: $burgundy;
-				text-shadow: 1px 1px 2px $peach;
+				color: $peach;
+				text-shadow: 1px 1px 2px $teal;
 				font-size: 3vw;
 				line-height: 2vw;
 				padding-left: 2%;
@@ -182,7 +212,7 @@ div#centerContent {
 			}
 
 			a:hover {
-				color: $darkblue;
+				color: $peach;
 				text-shadow: 2px 2px 2px $lightblue;
 			}
 
@@ -190,25 +220,15 @@ div#centerContent {
 	}
 
 	p {
-		font-family: "Charter", serif;
 		font-size: 2vw;
-		color: $darkblue;
+		color: $white;
 		text-align: center;
 		padding-top: 10%;
+		//-webkit-text-stroke: 1px $emerald;
 	}
 
 }
 
-
-div#breakImage1 {
-	position: absolute;
-	bottom: 0;
-	left: 0;
-	width: 100%;
-	height: 5%;
-	background-image: url("triangleborder.svg");
-	background-origin: top-left;
-}
 
 
 
@@ -220,7 +240,6 @@ div#projPage {
 	width: 80%;
 	height: 80%;
 	background: rgba($peach, 0.7);
-	font-family: "Charter", serif;
 	font-size: 1vw;
 	color: #444;
 
