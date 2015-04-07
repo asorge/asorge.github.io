@@ -87,23 +87,23 @@ $green: #A0EDCD;
 
 img#butterfly {
 	position: absolute;
-	width: 50%;
-	left: 25%;
-	opacity: 0.5;
+	width: 52%;
+	left: 24%;
+	opacity: 0.3;
 }
 
 img#butterfly2 {
 	position: absolute;
-	width: 52%;
-	left: 22%;
+	width: 50%;
+	left: 15%;
 
-	opacity: 0.3;
+	opacity: 0.1;
 }
 
 img#butterfly3 {
 	position: absolute;
-	width: 58%;
-	left: 21%;
+	width: 50%;
+	left: 37%;
 	opacity: 0.1;
 }
 
@@ -138,13 +138,14 @@ div#nav {
 			a {
 				text-decoration: none;
 				font-size: 3vw;
-				text-shadow: 1px 2px $yellow;
+				//text-shadow: 1px 1px $white;
 				transition: color 1s;
+				opacity: 0.8;
 			}
 
 			a:hover{
-				color: $emerald;
-				text-shadow: 1px 2px 2px $yellow;
+				color: $white;
+				text-shadow: 1px 2px 2px $peach;
 			}
 		}
 
@@ -181,9 +182,9 @@ div#centerContent {
 		background-clip:text;
 		-webkit-text-fill-color:transparent;
 		text-align: center;
-		-webkit-animation: AnimationName 45s ease infinite;
-		-moz-animation: AnimationName 45s ease infinite;
-		animation: AnimationName 45s ease infinite;
+		-webkit-animation: AnimationName 90s ease infinite;
+		-moz-animation: AnimationName 90s ease infinite;
+		animation: AnimationName 90s ease infinite;
 		-webkit-text-stroke: 1px black;
 	}
 
@@ -202,18 +203,18 @@ div#centerContent {
 			a {
 				
 				display: inline-block;
-				color: $peach;
-				text-shadow: 1px 1px 2px $teal;
+				color: #666;
+				text-shadow: 3px 3px 3px #333;
 				font-size: 3vw;
 				line-height: 2vw;
 				padding-left: 2%;
-				transition: color  1s;
+				transition: color  2s;
 				
 			}
 
 			a:hover {
 				color: $peach;
-				text-shadow: 2px 2px 2px $lightblue;
+				text-shadow: 2px 2px 2px $aqua;
 			}
 
 		}
@@ -221,7 +222,7 @@ div#centerContent {
 
 	p {
 		font-size: 2vw;
-		color: $white;
+		color: #aaa;
 		text-align: center;
 		padding-top: 10%;
 		//-webkit-text-stroke: 1px $emerald;
@@ -239,9 +240,10 @@ div#projPage {
 	left: 10%;
 	width: 80%;
 	height: 80%;
-	background: rgba($peach, 0.7);
+	background: rgba($emerald, 0.8);
 	font-size: 1vw;
-	color: #444;
+	color: #888;
+	font-family: serif;
 
 	ul {
 		position: absolute;
@@ -253,8 +255,10 @@ div#projPage {
 
 	a {
 		text-decoration: none;
-		color: $darkblue;
+		color: #aaa;
 		transition: text-decoration 0.5s;
+		font-family: 'Dancing Script', cursive;
+		font-size: 1.5vw;
 	}
 
 	a:hover {
@@ -269,7 +273,7 @@ div#calPage {
 	left: 10%;
 	width: 80%;
 	height: 80%;
-	background: rgba($lightblue, 0.7);
+	background: rgba($green, 0.7);
 
 	iframe {
 		position: absolute;
@@ -286,7 +290,7 @@ div#resPage {
 	left: 10%;
 	width: 80%;
 	height: 80%;
-	background: rgba($burgundy, 0.7);
+	background: rgba($teal, 0.7);
 
 	object {
 		position: absolute;

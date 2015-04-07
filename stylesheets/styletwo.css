@@ -64,20 +64,20 @@ table {
 
 img#butterfly {
   position: absolute;
-  width: 50%;
-  left: 25%;
-  opacity: 0.5; }
+  width: 52%;
+  left: 24%;
+  opacity: 0.3; }
 
 img#butterfly2 {
   position: absolute;
-  width: 52%;
-  left: 22%;
-  opacity: 0.3; }
+  width: 50%;
+  left: 15%;
+  opacity: 0.1; }
 
 img#butterfly3 {
   position: absolute;
-  width: 58%;
-  left: 21%;
+  width: 50%;
+  left: 37%;
   opacity: 0.1; }
 
 body {
@@ -104,11 +104,11 @@ div#nav {
       div#nav ul li a {
         text-decoration: none;
         font-size: 3vw;
-        text-shadow: 1px 2px #F8E71C;
-        transition: color 1s; }
+        transition: color 1s;
+        opacity: 0.8; }
       div#nav ul li a:hover {
-        color: #0A311E;
-        text-shadow: 1px 2px 2px #F8E71C; }
+        color: #fff;
+        text-shadow: 1px 2px 2px #FDCD6B; }
 
 a#pLink {
   color: #A0EDCD; }
@@ -135,9 +135,9 @@ div#centerContent {
     background-clip: text;
     -webkit-text-fill-color: transparent;
     text-align: center;
-    -webkit-animation: AnimationName 45s ease infinite;
-    -moz-animation: AnimationName 45s ease infinite;
-    animation: AnimationName 45s ease infinite;
+    -webkit-animation: AnimationName 90s ease infinite;
+    -moz-animation: AnimationName 90s ease infinite;
+    animation: AnimationName 90s ease infinite;
     -webkit-text-stroke: 1px black; }
   div#centerContent div#footerLinks {
     position: absolute;
@@ -151,18 +151,18 @@ div#centerContent {
       display: inline; }
       div#centerContent div#footerLinks ul a {
         display: inline-block;
-        color: #FDCD6B;
-        text-shadow: 1px 1px 2px #6BC5C6;
+        color: #666;
+        text-shadow: 3px 3px 3px #333;
         font-size: 3vw;
         line-height: 2vw;
         padding-left: 2%;
-        transition: color  1s; }
+        transition: color  2s; }
       div#centerContent div#footerLinks ul a:hover {
         color: #FDCD6B;
-        text-shadow: 2px 2px 2px #88ACF8; }
+        text-shadow: 2px 2px 2px #0A311E; }
   div#centerContent p {
     font-size: 2vw;
-    color: #fff;
+    color: #aaa;
     text-align: center;
     padding-top: 10%; }
 
@@ -172,9 +172,10 @@ div#projPage {
   left: 10%;
   width: 80%;
   height: 80%;
-  background: rgba(253, 205, 107, 0.7);
+  background: rgba(10, 49, 30, 0.8);
   font-size: 1vw;
-  color: #444; }
+  color: #888;
+  font-family: serif; }
   div#projPage ul {
     position: absolute;
     top: 10%;
@@ -183,8 +184,10 @@ div#projPage {
     height: 80%; }
   div#projPage a {
     text-decoration: none;
-    color: #0051A8;
-    transition: text-decoration 0.5s; }
+    color: #aaa;
+    transition: text-decoration 0.5s;
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.5vw; }
   div#projPage a:hover {
     text-decoration: underline; }
 
@@ -194,7 +197,7 @@ div#calPage {
   left: 10%;
   width: 80%;
   height: 80%;
-  background: rgba(136, 172, 248, 0.7); }
+  background: rgba(160, 237, 205, 0.7); }
   div#calPage iframe {
     position: absolute;
     top: 10%;
@@ -208,7 +211,7 @@ div#resPage {
   left: 10%;
   width: 80%;
   height: 80%;
-  background: rgba(149, 8, 134, 0.7); }
+  background: rgba(107, 197, 198, 0.7); }
   div#resPage object {
     position: absolute;
     top: 5%;
