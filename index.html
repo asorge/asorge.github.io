@@ -1,79 +1,67 @@
 <html>
-
-  <head>
-  <img src="butterfly.svg" id="butterfly" />
-  <img src="butterfly.svg" id="butterfly2" />
-   <img src="butterfly.svg" id="butterfly3" />
-    <title> ally sorge</title>
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/styletwo.css">
+	<head>
+		
+	      <!--Import Google Icon Font-->
+      <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+      <!--Import materialize.css-->
+      <link type="text/css" rel="stylesheet" href="sass/materialize.css"  media="screen,projection"/>
       <link rel="stylesheet" type="text/css" media="screen" href="foundation-icons/foundation-icons.css">
-      <link href='http://fonts.googleapis.com/css?family=Dancing+Script' rel='stylesheet' type='text/css'>
-      <script type="text/javascript" src="javascripts/jquery-2.1.1.js"></script>
-      
-      
-  </head>
+      <link href='https://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css'>
 
-  <body>
-    <div id="nav">
-      <ul>
-        <li><a href="#" id="pLink" class="pLink">projects</a></li>
-        <li><a href="#" id="rLink">resume</a></li>
-        <li><a href="#" id="cLink">calendar</a></li>
-      </ul>
-    </div>
+      <!--Let browser know website is optimized for mobile-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	</head>
 
-    <div id="centerContent" class="centerContent">
-      <h1>ally sorge</h1>
-        <div id="footerLinks">
-      <ul>
-            <a href="http://www.facebook.com/ally.sorge"><li><i class="fi-social-facebook"></i></li></a>
-            <a href="http://www.twitter.com/allys"><li><i class="fi-social-twitter"></i></li></a>
-            <a href="mailto:asorge@cmu.edu"><li><i class="fi-mail"></i></li></a>
-            <a href="http://www.allysorge.tumblr.com"><li><i class="fi-social-tumblr"></i></li></a>
-            <a href="http://allysorge.deviantart.com/"><li><i class="fi-social-deviant-art"></i></li></a>  
-          </ul>
-      
-    </div>
-      <p id="aboutText">
-        information systems
-        <br />
-        student @ carnegie mellon
-        <br />
-        web designer
-        <br />
-        app developer
-      </p>
+	<body>
+	  <!--Import jQuery before materialize.js-->
+      <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 
-    </div>
+      <script type="text/javascript" src="index.js"></script>
+		<main>
+		
+	     <div class="row container" id="container">
+	     <!-- column 1 -->
+	      <div class="col s4">
+	      	<div id="pic">
+	      	</div>
 
-    <!-- pop up pages -->
-    <div id="projPage" class="projPage">
-      <span class="closeProj">close</span>
-    
-         <ul>
-         <li><a href="http://freefoodcmu.me">free food @ cmu</a> : TartanHacks 2015 project using Facebook's GraphAPI and Parse to find and log free food events on campus.</li><br>
-            <li><a href="http://challengepost.com/software/minegraph"><b>Minegraph</b></a>  -- winner of best use of two sigma's beaker notebook at PennApps winter 2015<br>
-            Uses python to read and parse data from minecraft world files and javascript + d3 to graph the world!<br><br></li>
-            <li><a href= "http://challengepost.com/software/emoji_keyboard"><b>Decisive Emoji Keyboard</b></a> -- iOS custom keyboard built with Swift<br>
-            By showing users a selection of images and tracking their selections, our keyboard pics the perfect emoji<br><br></li>
-            <br>
-            <li>
-              
-              <a href="http://challengepost.com/software/stay-mindful"><b>Stay Mindful</b></a> -- iOS app built with Swift that allows users to keep detailed records of their thoughts, day, mood, or anything else. <br><br>
-              <!-- <div class="staymindful"> screenshots <span class="closeMind">close</span></div> -->
-            </li>
-            <br>
-            <li>CMU 15-112 spring 2014 term project, Multiplayer language learning game built with Python incorporating speech recognition -- video <a href-"https://www.youtube.com/watch?v=WsrV23_4CXE&feature=autoshare">here</a>
-              <!-- <div class="term112"> screenshots <span class="close112">close</span></div> -->
-            </li>
-            <br><br>
-            <li>This site (html,css,javascript,jquery written by me, graphics drawn by moi aussi)</li>
-            <br>
-            <li>more on my <a href="https://github.com/asorge">github</a></li>
-         </ul>
-        
-      </div>
+	      	<div id="socialMedia">
+	      		<ul>
+		            <a href="http://www.facebook.com/ally.sorge"><li><i class="fi-social-facebook"></i></li></a>
+		            <a href="http://www.twitter.com/allys"><li><i class="fi-social-twitter"></i></li></a>
+		            <a href="mailto:asorge@cmu.edu"><li><i class="fi-mail"></i></li></a>
+		            <a href="http://www.allysorge.tumblr.com"><li><i class="fi-social-tumblr"></i></li></a>
+		            <a href="http://allysorge.deviantart.com/"><li><i class="fi-social-deviant-art"></i></li></a>  
+		         </ul>
+	      	</div>
 
+	      	<div id="bio">
+	      	Hey! I'm Ally and I love making things. That's a pretty broad statement that covers my love of programming and crafting. I aspire to be hip front end web developer but also have a lot of back end experience. In my free time you can find me at a hackathon or crafting something from the millions of free tshirts I just got. My Devpost page, under 'projects', has links to my work and I've also included a link to my Etsy shop to show of some of my art. I'm also all over the internet so you can reach me on any of the social media networks linked above (:
+	      	</div>
+	      </div>
+
+	      <!-- column 2 -->
+	      <div class="col s8">
+	      	<div id="links">
+	      		<ul>
+		      		<li><a href="http://devpost.com/allysorge?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" id="pLink" class="pLink">projects</a></li>
+			        <li><a href="#" id="rLink">resume</a></li>
+			        <li><a href="#" id="cLink">calendar</a></li>
+			        <li><a href="https://www.etsy.com/shop/namastehereandcraft" id="aLink">art</a></li>
+			        <li><a href="mailto:asorge@cmu" id="ctLink">contact</a></li>
+			     </ul>
+	      	</div>
+
+	      	<div id="blog">
+	      	<script async src="https://static.medium.com/embed.js"></script><a class="m-profile" data-width= "100%" data-border= "false" href="https://medium.com/@allysorge">Ally Sorge</a>
+	      	</div>
+	      </div>
+
+	    </div>
+	    </main>
+
+	  
          
          <div id="calPage" class="calPage">
              <center>
@@ -83,13 +71,14 @@
          </div>
          
          
-         <div  id="resPage" class="resPage"><span class="closeRes">close</span>
-         
-         <object data="AESResume.pdf" type="application/pdf" class="pdf">
-                     <a href="AlexandraESorgeResume.pdf">no pdf plugin installed, click here to open my resume</a>
-                   </object>
+         <div id="resPage" class="resPage">
+        	 <object data="AESResume.pdf" type="application/pdf" class="pdf">
+                 <a href="AlexandraESorgeResume.pdf">no pdf plugin installed, click here to open my resume</a>
+             </object>
+             <span class="closeRes">close</span>
          </div>
-         
-<script type="text/javascript" src="javascripts/index.js"></script>
-  </body>
- </html>
+
+	</body>
+	<div id="logo">Ally Sorge</div>
+
+</html>
