@@ -1,0 +1,19 @@
+{
+  "name": "Zappos",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "asorge <asorge@cmu.edu>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ideal-image-slider": "~1.5.0"
+  }
+}
