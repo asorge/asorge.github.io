@@ -11,7 +11,7 @@ html body {
     color: #F72828;
     text-shadow: #444 1px 1px 1px; }
   html body div#bgImage {
-    background-image: url("../images/seattle.jpg");
+    background-image: url("../images/seattle.png");
     background-size: 100%;
     position: absolute;
     width: 101%;
